@@ -8,5 +8,6 @@ Release date ?
 </info>
 <beranda>
     <anime>The God of High School|https://cdn.myanimelist.net/images/anime/1722/107269.jpg</anime>
+    <anime>Saenai Heroine no Sodatekata|https://cdn.myanimelist.net/images/anime/2/84797.jpg</anime>
 </beranda>
 <br>
