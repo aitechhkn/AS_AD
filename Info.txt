@@ -6,4 +6,7 @@ Apa yaw tes aja
 
 Release date ?
 </info>
+<beranda>
+    <anime>The God of High School|https://cdn.myanimelist.net/images/anime/1722/107269.jpg</anime>
+</beranda>
 <br>
