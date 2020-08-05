@@ -9,8 +9,8 @@ History (In Progress)
 Release date ?
 </info>
 <beranda>
-    <anime>The God of High School|[x]|https://images8.alphacoders.com/108/thumb-1920-1085701.png|https://cdn.myanimelist.net/images/anime/1722/107269.jpg</anime>
-    <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg|https://cdn.myanimelist.net/images/anime/2/84797.jpg</anime>
+    <anime>The God of High School|[x]|https://images8.alphacoders.com/108/thumb-1920-1085701.png</anime>
+    <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
 	<anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
 	<anime>Fate/Stay Night: Unlimited Blade Works|[x]|https://images4.alphacoders.com/699/thumb-1920-699640.png</anime>
 	<anime>Knight's and Magic|[x]|https://wallpapercave.com/wp/wp3806850.jpg</anime>
