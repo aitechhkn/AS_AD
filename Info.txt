@@ -1,19 +1,64 @@
 <waktu>13:14 27/07/2020</waktu>
-<splash>AnimeDesu|[x]|https://i.pinimg.com/originals/d9/3d/9e/d93d9e436f80108fc37a0feba5ee1a86.jpg</splash>
+<splash>AnimeDesu Beta|[x]|https://i.pinimg.com/originals/d9/3d/9e/d93d9e436f80108fc37a0feba5ee1a86.jpg</splash>
 <info>
 Selamat datang di AnimeDesu Beta
 
-Anime List (In Progress)
-History (In Progress)
+Jadwal Rilis Anime:
+SENIN
+Monster Musume no Oisha-san
+The God of High School
 
-Release date ?
+SELASA
+Fruits Basket Season 2
+Black Clover
+Shadowverse
+
+RABU
+Houkago Teibou Nisshi
+Muhyo to Rouji no Mahouritsu Soudan Jimusho Season 2
+Ahiru no Sora
+
+KAMIS
+Re:Zero kara Hajimeru Isekai Seikatsu Season 2
+Deca-Dence
+Gibiate
+Koi to Producer: EVOL×LOVE
+
+JUMAT
+Oregairu Season 3
+No Guns Life Season 2
+Mewkledreamy
+
+SABTU
+Shokugeki no Souma Season 5
+Uzaki-chan wa Asobitai!
+Dokyuu Hentai HxEros
+Enen no Shouboutai Season 2
+Kanojo Okarishimasu
+Bungou to Alchemist: Shinpan no Haguruma
+Peter Grill to Kenja no Jikan
+Major 2nd (TV) Season 2
+Lapis Re:LiGHTs
+
+MINGGU
+Sword Art Online Season 3 Part 2
+Maou Gakuin no Futekigousha
+One Piece
+Digimon Adventure (2020)
+Boruto: Naruto Next Generations
+Pokemon (2019)
+
+ACAK???
+Detective Conan
+Toaru Kagaku no Railgun T
+Fugou Keiji: Balance:Unlimited
 </info>
 <beranda>
     <anime>The God of High School|[x]|https://images8.alphacoders.com/108/thumb-1920-1085701.png</anime>
     <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
-	<anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
-	<anime>Fate/Stay Night: Unlimited Blade Works|[x]|https://images4.alphacoders.com/699/thumb-1920-699640.png</anime>
-	<anime>Knight's and Magic|[x]|https://wallpapercave.com/wp/wp3806850.jpg</anime>
-	<anime>Koe no katachi|A Slient Voice|[x]|https://images4.alphacoders.com/738/thumb-1920-738316.jpg</anime>
+    <anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
+    <anime>Fate/Stay Night: Unlimited Blade Works|[x]|https://images4.alphacoders.com/699/thumb-1920-699640.png</anime>
+    <anime>Knight's and Magic|[x]|https://wallpapercave.com/wp/wp3806850.jpg</anime>
+    <anime>Koe no katachi|A Slient Voice|[x]|https://images4.alphacoders.com/738/thumb-1920-738316.jpg</anime>
 </beranda>
 <br>
