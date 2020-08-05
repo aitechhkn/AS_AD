@@ -1,5 +1,5 @@
 <waktu>Rabu, 13:14 05/08/2020</waktu>
-<splash>AnimeDesu|[x]|https://o.remove.bg/downloads/18a53663-8432-4a44-b381-c29d58110535/aaaaa__1_-removebg-preview.png</splash>
+<splash>AnimeDesu|[x]|https://github.com/aitechhkn/AS_AD/raw/master/katocircle.png</splash>
 <subjudul>Beta</subjudul>
 <info>
 Selamat datang di AnimeDesu Beta
