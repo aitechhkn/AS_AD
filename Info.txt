@@ -7,7 +7,7 @@ Apa yaw tes aja
 Release date ?
 </info>
 <beranda>
-    <anime>The God of High School|https://images3.alphacoders.com/679/thumb-1920-679018.jpg|https://cdn.myanimelist.net/images/anime/1722/107269.jpg</anime>
-    <anime>Saenai Heroine no Sodatekata|https://images8.alphacoders.com/108/thumb-1920-1085701.png|https://cdn.myanimelist.net/images/anime/2/84797.jpg</anime>
+    <anime>The God of High School|https://images8.alphacoders.com/108/thumb-1920-1085701.png|https://cdn.myanimelist.net/images/anime/1722/107269.jpg</anime>
+    <anime>Saenai Heroine no Sodatekata|https://images3.alphacoders.com/679/thumb-1920-679018.jpg|https://cdn.myanimelist.net/images/anime/2/84797.jpg</anime>
 </beranda>
 <br>
