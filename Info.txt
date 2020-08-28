@@ -55,6 +55,7 @@ Jadwal Rilis Anime:
 - Toaru Kagaku no Railgun T
 - Fugou Keiji: Balance:Unlimited
 </info>
+<uphost>https://www.neonime.moe/episode/</uphost>
 <beranda>
     <anime>The God of High School|[x]|https://images8.alphacoders.com/108/thumb-1920-1085701.png</anime>
     <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
