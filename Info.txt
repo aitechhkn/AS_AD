@@ -56,6 +56,8 @@ Jadwal Rilis Anime:
 - Fugou Keiji: Balance:Unlimited
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
+<pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
+<pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
 <beranda>
     <anime>The God of High School|[x]|https://images8.alphacoders.com/108/thumb-1920-1085701.png</anime>
     <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
