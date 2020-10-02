@@ -1,5 +1,5 @@
-<waktu>Senin, 11:41 28/09/2020</waktu>
-<versi>v1.1.93</versi>
+<waktu>Jum'at, 07:28 02/10/2020</waktu>
+<versi>v1.2.01</versi>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
 <info>
@@ -10,18 +10,17 @@ Jadwal Rilis Anime:
 - The God of High School
 
 # Selasa
-- Fruits Basket Season 2
 - Black Clover
-- Shadowverse
+- Strike Witches S3: Road to Berlin
 
 # Rabu
-- Houkago Teibou Nisshi
-- Muhyo to Rouji no Mahouritsu Soudan Jimusho Season 2
 - Ahiru no Sora
+- Araburu Kisetsu no Otomedomo yo Live Action
+- Re:Zero kara Hajimeru Isekai Seikatsu Season 2
 
 # Kamis
-- Gibiate
 - Koi to Producer: EVOL×LOVE
+- Zenonzard: The Animation
 
 # Jum'at
 - No Guns Life Season 2
@@ -29,13 +28,10 @@ Jadwal Rilis Anime:
 
 # Sabtu
 - Shokugeki no Souma Season 5
-- Uzaki-chan wa Asobitai!
 - Dokyuu Hentai HxEros
 - Enen no Shouboutai Season 2
 - Bungou to Alchemist: Shinpan no Haguruma
-- Peter Grill to Kenja no Jikan
 - Major 2nd (TV) Season 2
-- Lapis Re:LiGHTs
 
 # Minggu
 - One Piece
@@ -45,7 +41,6 @@ Jadwal Rilis Anime:
 
 # Acak tidak diketahui!
 - Detective Conan
-- Toaru Kagaku no Railgun T
 - Fugou Keiji: Balance:Unlimited
 
 List Anime Fall 2020:
