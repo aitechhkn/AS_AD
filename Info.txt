@@ -2,23 +2,12 @@
 <versi>v0.0.01</versi>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
-<info>Selamat datang di AnimeDesu Beta
+<info>
+Selamat datang di AnimeDesu Beta
 
 Silakan gunakan aplikasi tambahan IDM agar download menjadi lebih cepat dan semua versi idm support!
 
-List Anime Fall 2020:
-1.Higurashi no naku (1 oct 2020)
-2.Golden kamuy S3 (5 oct 2020)
-3.Kimi to Boku no saigo (7 oct 2020)
-4.Tonikawa (3 oct 2020)
-5.Kami sama ni natta (11 oct 2020)
-6.Jujutsu kaisen (19 sep 2020)
-7.Danmachi S3 (3 oct 2020)
-8.Noblesse (18 oct 2020)
-9.Haikyuu S4 part 2 (3 oct 2020)
-10.Mahouka koukou no rettousei (4 oct 2020)
-11.Movie Date a Bullet (13 nov 2020)
-12.Kimetsu no yaiba movie (16 oct 2020)
+Join Discord: https://discord.gg/4z4wJpH
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
