@@ -18,7 +18,7 @@ Join Discord: https://discord.gg/4z4wJpH
     <anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
     <anime>Fate/Stay Night: Unlimited Blade Works|[x]|https://images4.alphacoders.com/699/thumb-1920-699640.png</anime>
     <anime>Knight's and Magic|[x]|https://wallpapercave.com/wp/wp3806850.jpg</anime>
-    <anime>Koe no katachi|A Slient Voice|[x]|https://images4.alphacoders.com/738/thumb-1920-738316.jpg</anime>
+    <anime>Koe no katachi|[x]|https://images4.alphacoders.com/738/thumb-1920-738316.jpg</anime>
     <anime>Nisekoi|[x]|https://wallpaperaccess.com/full/1326559.jpg</anime>
     <anime>Strike The Blood|[x]|https://vistapointe.net/images/strike-the-blood-5.jpg</anime>
 </beranda>
