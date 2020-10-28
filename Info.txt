@@ -22,4 +22,6 @@ Join Discord: https://discord.gg/4z4wJpH
     <anime>Nisekoi|[x]|https://wallpaperaccess.com/full/1326559.jpg</anime>
     <anime>Strike The Blood|[x]|https://vistapointe.net/images/strike-the-blood-5.jpg</anime>
     <anime>ReLife|[x]|https://wallpaperaccess.com/full/1913237.jpg</anime>
+    <anime>Overlord|[x]|https://images6.alphacoders.com/626/thumb-1920-626763.jpg</anime>
+    <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
 </beranda>
