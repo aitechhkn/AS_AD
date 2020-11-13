@@ -2,18 +2,16 @@
 <versi>v0.0.01</versi>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
-<info>
-Selamat datang di AnimeDesu Beta
+<info>Selamat datang di AnimeDesu Beta
 
 Silakan gunakan aplikasi tambahan IDM agar download menjadi lebih cepat dan semua versi idm support!
 
 Join Discord: https://discord.gg/RbnWzAU
-Join Telegram: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
-</info>
+Join Telegram: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
-<tampilAds>0x00C0A0DS</tampilAds>
+<tampilAds>0x00C0A0DSS</tampilAds>
 <beranda>
     <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
     <anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
