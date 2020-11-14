@@ -11,7 +11,7 @@ Join Telegram: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
-<tampilAds>0x00C0A0DSS</tampilAds>
+<tampilAds>0x00C0A0DS</tampilAds>
 <beranda>
     <anime>Saenai Heroine no Sodatekata|[x]|https://images3.alphacoders.com/679/thumb-1920-679018.jpg</anime>
     <anime>Darling in the FranXX|[x]|https://images5.alphacoders.com/896/896569.png</anime>
