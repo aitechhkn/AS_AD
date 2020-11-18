@@ -1,12 +1,15 @@
 <waktu>Jum'at, 07:28 02/10/2020</waktu>
-<versi>v0.0.01</versi>
+<versi>v0.0.02</versi>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
 <info>Selamat datang di AnimeDesu Beta
 
 Gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</info>
+Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
+Sedang Reupload Anime:
+Naruto: Shippuuden - 25 EPS
+</info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
