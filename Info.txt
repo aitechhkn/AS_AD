@@ -4,10 +4,9 @@
 <subjudul>Beta</subjudul>
 <info>Selamat datang di AnimeDesu Beta
 
-Silakan gunakan aplikasi tambahan IDM agar download menjadi lebih cepat dan semua versi idm support!
+Gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Join Discord: https://discord.gg/RbnWzAU
-Join Telegram: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</info>
+Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
