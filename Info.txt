@@ -6,14 +6,15 @@
 
 Gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
-
 Database telah diperbarui!
++ Steins Gate Special Kyoukaimenjou
 + Naruto Movie 1-3
 + Naruto Shippuuden Movie 1-7
 
 Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
+
+Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
@@ -31,3 +32,5 @@ Naruto: Shippuuden - 25 EPS
     <anime>Overlord|[x]|https://images6.alphacoders.com/626/thumb-1920-626763.jpg</anime>
     <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
 </beranda>
+<uplink>https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</uplink>
+<adsunit>ca-app-pub-9216815467409734/7148199451</adsunit>
