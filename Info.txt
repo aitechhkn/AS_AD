@@ -33,7 +33,3 @@ Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/
     <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
 </beranda>
 <uplink>https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</uplink>
-<adsunit>
-    <banner>ca-app-pub-9216815467409734/7148199451</banner>
-    <interestial>ca-app-pub-9216815467409734/6891866356</interestial>
-</adsunit>
