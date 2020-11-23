@@ -3,9 +3,10 @@
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
 <info>Selamat datang di AnimeDesu Beta
-
+Sedang dalam proses Pengunjian Tertutup
 Gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
-
+</info>
+<tmpInfo>
 Database telah diperbarui!
 + Steins Gate Special Kyoukaimenjou
 + Naruto Movie 1-3
@@ -15,7 +16,7 @@ Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
 
 Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
-</info>
+</tmpInfo>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
