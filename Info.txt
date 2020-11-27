@@ -37,4 +37,4 @@ Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/
     <anime>Overlord|[x]|https://images6.alphacoders.com/626/thumb-1920-626763.jpg</anime>
     <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
 </beranda>
-<uplink>https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q</uplink>
+<uplink>https://t.me/animedesuofficial</uplink>
