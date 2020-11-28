@@ -1,5 +1,4 @@
-<waktu>Jum'at, 07:28 02/10/2020</waktu>
-<versi>v0.0.4</versi>
+<versi>v0.0.5</versi>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <subjudul>Beta</subjudul>
 <info>Selamat datang di AnimeDesu.
@@ -7,6 +6,18 @@
 App ini sedang dalam proses Pengunjian Tertutup.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
+
+What's new v0.0.5?
+- Perbaikan Episode OVA dan Special tidak bisa di download.
+- Rilisan Update sekarang lebaih cepat! (increase performance speed).
+- Pencarian dimaksimalkan sekarang lebih cepat! (increase performance speed).
+- Penambahan Filter Genre di Pencarian.
+- Perubahan UI Button Episode.
+- Perbaikan beberapa bug.
+
+Next Update?
+- Perbaikan Genre ecchi yang hilang (animenya ada tapi genrenya yg hilang)
+- ...?
 </info>
 <tmpInfo>
 Database telah diperbarui!
@@ -16,8 +27,6 @@ Database telah diperbarui!
 
 Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
-
-Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/UraNpRkDDHDcwdXqDOMF4Q
 </tmpInfo>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
@@ -36,5 +45,9 @@ Silakan join telegram untuk lapor Bug atau Request anime: https://t.me/joinchat/
     <anime>ReLife|[x]|https://wallpaperaccess.com/full/1913237.jpg</anime>
     <anime>Overlord|[x]|https://images6.alphacoders.com/626/thumb-1920-626763.jpg</anime>
     <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
+    <anime>Koe no Katachi|[x]|https://images4.alphacoders.com/738/738316.jpg</anime>
+    <anime>Kimi no Na wa|[x]|https://images2.alphacoders.com/742/742320.png</anime>
+    <anime>Naruto: Shippuuden the Movie|[x]|https://cdn.wallpapersafari.com/72/1/it7vTb.jpg</anime>
+    <anime>Mahouka Koukou no Rettousei|[x]|https://images7.alphacoders.com/740/thumb-1920-740267.jpg</anime>
 </beranda>
 <uplink>https://t.me/animedesuofficial</uplink>
