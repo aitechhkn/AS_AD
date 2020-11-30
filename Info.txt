@@ -6,6 +6,8 @@
 App ini sedang dalam proses Pengunjian Tertutup.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
+
+Genre Ec*hi telah diperbaiki silakan Update Database di Pengaturan yah!
 </info>
 <tmpInfo>
 Database telah diperbarui!
