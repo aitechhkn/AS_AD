@@ -14,6 +14,8 @@ Silakan Perbarui Database di Pengaturan yah!
 
 Silakan join Telegram untuk mendapatkan Update terbarunya yah...
 https://t.me/animedesuofficial
+
+Versi 0.0.6 telah di rilis di Telegram.
 </info>
 <tmpInfo>
 Database telah diperbarui!
