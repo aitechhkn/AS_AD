@@ -44,5 +44,6 @@ Naruto: Shippuuden - 25 EPS
     <anime>Kimi no Na wa|[x]|https://images2.alphacoders.com/742/742320.png</anime>
     <anime>Naruto: Shippuuden the Movie|[x]|https://cdn.wallpapersafari.com/72/1/it7vTb.jpg</anime>
     <anime>Mahouka Koukou no Rettousei|[x]|https://images7.alphacoders.com/740/thumb-1920-740267.jpg</anime>
+    <anime>Weathering with You (Tenki no Ko)|[x]|https://images3.alphacoders.com/109/1092990.png</anime>
 </beranda>
 <uplink>https://t.me/animedesuofficial</uplink>
