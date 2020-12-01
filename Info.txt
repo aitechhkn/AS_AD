@@ -3,20 +3,17 @@
 <subjudul>Beta</subjudul>
 <info>Selamat datang di AnimeDesu.
 
-App ini sedang dalam proses Pengunjian Tertutup.
-
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
 Genre Ec*hi telah diperbaiki
 + Weathering with you (Tenki no Ko)
 
-Silakan Perbarui Database di Pengaturan yah!
+Harap Perbarui Database di Pengaturan yah!
 
-Silakan join Telegram untuk mendapatkan Update terbarunya yah...
+Silakan join Telegram untuk chat dan Request anime yah...
 https://t.me/animedesuofficial
 
-Versi 0.0.6 telah di rilis di Telegram.
-</info>
+Versi 0.0.6 telah di rilis di Google Play Store!</info>
 <tmpInfo>
 Database telah diperbarui!
 + Steins Gate Special Kyoukaimenjou
