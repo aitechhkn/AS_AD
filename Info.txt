@@ -1,4 +1,4 @@
-<versi>v0.0.5</versi>
+<versi>v0.0.7</versi>
 <kodeversi>3</kodeversi>
 <harusup>0</harusup>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
@@ -6,18 +6,12 @@
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Genre Ec*hi telah diperbaiki
-+ Weathering with you (Tenki no Ko)
-
-Harap Perbarui Database di Pengaturan yah!
-
-Silakan join Telegram untuk Chat dan Request anime yah...
-https://t.me/animedesuofficial
-
-Versi 0.0.6 telah di rilis di Google Play Store!</info>
+Versi 0.0.7 telah di rilis di Google Play Store!</info>
 <tmpInfo>
 Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
+Silakan join Telegram untuk Chat dan Request anime yah...
+https://t.me/animedesuofficial
 </tmpInfo>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
