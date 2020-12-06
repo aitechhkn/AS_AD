@@ -6,12 +6,13 @@
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Versi 0.0.7 telah di rilis di Google Play Store!</info>
+Silakan join Telegram untuk Chat dan Request anime yah...
+https://t.me/animedesuofficial
+
+Versi 0.0.8 telah di rilis di Google Play Store!</info>
 <tmpInfo>
 Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
-Silakan join Telegram untuk Chat dan Request anime yah...
-https://t.me/animedesuofficial
 </tmpInfo>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
