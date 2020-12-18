@@ -1,15 +1,17 @@
-<versi>v0.1.0</versi>
-<kodeversi>6</kodeversi>
-<harusup>1</harusup>
+<versi>v0.1.1</versi>
+<kodeversi>7</kodeversi>
+<harusup>0</harusup>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <info>Selamat datang di AnimeDesu.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi idm support!
 
-Silakan join Telegram untuk Chat dan Request anime yah...
+Silakan join Telegram untuk Chat, Request Anime atau Lapor Bug yah...
 https://t.me/animedesuofficial
 
-Versi 0.1.0 telah di rilis!</info>
+Versi 0.1.1 telah di rilis!
+Mau menambahkan anime menjadi lebih banyak?
+Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu higga download selesai setelah itu buka bagian Pencarian silakan refresh (Swipe Down) atau restart appnya yah!.</info>
 <tmpInfo>
 Sedang Reupload Anime:
 Naruto: Shippuuden - 25 EPS
