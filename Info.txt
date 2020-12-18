@@ -12,10 +12,6 @@ https://t.me/animedesuofficial
 Versi 0.1.1 telah di rilis!
 Mau menambahkan anime menjadi lebih banyak?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu higga download selesai setelah itu buka bagian Pencarian silakan refresh (Swipe Down) atau restart appnya yah!.</info>
-<tmpInfo>
-Sedang Reupload Anime:
-Naruto: Shippuuden - 25 EPS
-</tmpInfo>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
