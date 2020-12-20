@@ -21,7 +21,7 @@ apa yang baru di v0.1.2?
 - Perbaikan anime yang hilang"
 - Perbaikan UI Pengaturan.
 - Memperbarui data anime sekarang tidak perlu refresh atau restart app.
-- Mencoba update server tanpa Update app.
+- Mencoba update server utama tanpa Update app.
 - Perbaikan beberapa bug.
 
 </info>
