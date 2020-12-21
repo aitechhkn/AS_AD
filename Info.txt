@@ -24,6 +24,8 @@ apa yang baru di v0.1.2?
 - Menambahkan informasi ukuran download Data dan Data di kompres 17MB menjadi 4MB dan Data tambahan 28MB menjadi 1MB
 - Memperbarui data anime sekarang tidak perlu refresh atau restart app.
 
+Mohon maaf di versi v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi.
+
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
