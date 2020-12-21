@@ -12,19 +12,9 @@ https://t.me/animedesuofficial
 Mau menambahkan anime menjadi lebih banyak di versi 0.1.2?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai setelah itu buka bagian Pencarian silakan refresh (Swipe Down) atau restart appnya yah!.
 
-v0.1.2 telah diluncurkan (Upload) di Play Store tetapi sedang dalam proses jika lama sekali seperti v0.1.1 tidak kunjung selesai ditinjau google, update akan langsung dimasukkan telegram hari selasa!
+v0.1.2 Fixed telah upload di Telegram!
 
-apa yang baru di v0.1.2?
-- Penghapusan server download yang sangat lambat.
-- Penambahan server streaming dan download.
-- Perbaikan anime yang hilang-hilang.
-- Perbaikan UI Pengaturan.
-- Perbaikan beberapa bug.
-- Pengalaman Streaming ditingkatkan.
-- Menambahkan informasi ukuran download Data dan Data di kompres 17MB menjadi 4MB dan Data tambahan 28MB menjadi 1MB
-- Memperbarui data anime sekarang tidak perlu refresh atau restart app.
-
-Mohon maaf di versi v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi.
+Mohon maaf di v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi di google play store.
 Silakan unduh v0.1.2 Fixed yang ada di telegram!. Jika kamu pakai apk yg di unduh dari play store harap unduh dan pakai yang di telegram!
 
 </info>
