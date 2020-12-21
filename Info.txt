@@ -1,5 +1,5 @@
-<versi>v0.1.0</versi>
-<kodeversi>6</kodeversi>
+<versi>v0.1.2</versi>
+<kodeversi>8</kodeversi>
 <harusup>0</harusup>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <info>Selamat datang di AnimeDesu.
@@ -25,6 +25,7 @@ apa yang baru di v0.1.2?
 - Memperbarui data anime sekarang tidak perlu refresh atau restart app.
 
 Mohon maaf di versi v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi.
+Silakan unduh v0.1.2 Fixed yang ada di telegram!. Jika kamu pakai apk yg di unduh dari play store harap unduh dan pakai yang di telegram!
 
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
