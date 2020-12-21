@@ -9,20 +9,20 @@ Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi l
 Silakan join Telegram untuk Chat, Request Anime atau Lapor Bug yah...
 https://t.me/animedesuofficial
 
-Mau menambahkan anime menjadi lebih banyak di versi 0.1.1?
+Mau menambahkan anime menjadi lebih banyak di versi 0.1.2?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai setelah itu buka bagian Pencarian silakan refresh (Swipe Down) atau restart appnya yah!.
 
-Mohon maaf ya di versi 0.1.1 terdapat bug dimana anime Movie Naruto dan Weathering with you tidak tersedia jadi saya sebagai developer akan cepat" mengupdate perbaikan bug tersebut dan yang lainnya. Update v0.1.1 akan tersedia hari senin. Dan hari selasa saya usahakan akan update v0.1.2 jadi maaf kalau update terlalu cepat yah...
-Jika sudah tidak sabar untuk menonton anime lama silakan update v0.1.1
+v0.1.2 telah diluncurkan (Upload) di Play Store tetapi sedang dalam proses jika lama sekali seperti v0.1.1 tidak kunjung selesai ditinjau google, update akan langsung dimasukkan telegram hari selasa!
 
 apa yang baru di v0.1.2?
 - Penghapusan server download yang sangat lambat.
 - Penambahan server streaming dan download.
-- Perbaikan anime yang hilang"
+- Perbaikan anime yang hilang-hilang.
 - Perbaikan UI Pengaturan.
-- Memperbarui data anime sekarang tidak perlu refresh atau restart app.
-- Mencoba update server utama tanpa Update app.
 - Perbaikan beberapa bug.
+- Pengalaman Streaming ditingkatkan.
+- Menambahkan informasi ukuran download Data dan Data di kompres 17MB menjadi 4MB dan Data tambahan 28MB menjadi 1MB
+- Memperbarui data anime sekarang tidak perlu refresh atau restart app.
 
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
@@ -47,6 +47,7 @@ apa yang baru di v0.1.2?
     <anime>Naruto: Shippuuden the Movie|[x]|https://cdn.wallpapersafari.com/72/1/it7vTb.jpg</anime>
     <anime>Mahouka Koukou no Rettousei|[x]|https://images7.alphacoders.com/740/thumb-1920-740267.jpg</anime>
     <anime>Weathering with You (Tenki no Ko)|[x]|https://images3.alphacoders.com/109/1092990.png</anime>
+    <anime>Naruto: Shippuuden|[x]|https://c4.wallpaperflare.com/wallpaper/194/181/147/game-naruto-anime-ninja-wallpaper-preview.jpg</anime>
 </beranda>
 <uplinktelegram>https://t.me/animedesuofficial</uplinktelegram>
 <uplink>https://play.google.com/store/apps/details?id=me.phantomx.animedesu</uplink>
