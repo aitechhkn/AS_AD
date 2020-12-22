@@ -51,4 +51,4 @@ Data sedang dalam proses penambahan anime.
 <uplink>https://play.google.com/store/apps/details?id=me.phantomx.animedesu</uplink>
 <data1>https://github.com/aitechhkn/AS_AD/raw/master/Data.rar</data1>
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/db_old_anim.rar</data2>
-<strim_hosts>oni.gomunime.com|</strim_hosts>
+<strim_hosts>oni.gomunime.comm|</strim_hosts>
