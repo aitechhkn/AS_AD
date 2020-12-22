@@ -9,13 +9,19 @@ Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi l
 Silakan join Telegram untuk Chat, Request Anime atau Lapor Bug yah...
 https://t.me/animedesuofficial
 
-Mau menambahkan anime menjadi lebih banyak di versi 0.1.2?
-Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai setelah itu buka bagian Pencarian silakan refresh (Swipe Down) atau restart appnya yah!.
+Mau menambahkan anime menjadi lebih banyak di versi 0.1.2? (3000+ Anime loh)
+Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai.
 
 v0.1.2 Fixed telah upload di Telegram!
 
 Mohon maaf di v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi di google play store.
 Silakan unduh v0.1.2 Fixed yang ada di telegram!. Jika kamu pakai apk yg di unduh dari play store harap unduh dan pakai yang di telegram!
+
+v0.1.3 Sedang dalam proses.
+- Mencoba method baru update server tanpa update app!
+
+Data sedang dalam proses penambahan anime.
+- Anime Bakegyamon
 
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
