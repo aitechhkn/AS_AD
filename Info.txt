@@ -22,7 +22,6 @@ v0.1.3 Sedang dalam proses.
 
 Data sedang dalam proses penambahan anime.
 - Anime Bakegyamon
-
 </info>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
