@@ -53,4 +53,4 @@ Data sedang dalam proses penambahan anime.
 <data1>https://github.com/aitechhkn/AS_AD/raw/master/Data.rar</data1>
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/db_old_anim.rar</data2>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
-<adsinteres>7/10|6/10</adsinteres>
+<adsinteres>6/10|7/10</adsinteres>
