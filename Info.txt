@@ -9,6 +9,8 @@ Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi l
 Silakan join Telegram untuk Chat, Request Anime atau Lapor Bug yah...
 https://t.me/animedesuofficial
 
+</info>
+<tmInfoea>
 Mau menambahkan anime menjadi lebih banyak di versi 0.1.2? (3000+ Anime loh)
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai.
 
@@ -22,8 +24,7 @@ v0.1.3 Sedang dalam proses.
 - Perbaikan performa app.
 
 Data sedang dalam proses penambahan anime.
-- Anime Bakegyamon (tersedia hanya di player ke 2)
-</info>
+- Anime Bakegyamon (tersedia hanya di player ke 2)</tmInfoea>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
