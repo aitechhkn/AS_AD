@@ -1,6 +1,6 @@
-<versi>v0.1.2</versi>
-<kodeversi>8</kodeversi>
-<harusup>0</harusup>
+<versi>v0.1.3</versi>
+<kodeversi>9</kodeversi>
+<harusup>1</harusup>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <info>Selamat datang di AnimeDesu.
 
@@ -9,22 +9,12 @@ Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi l
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
 https://t.me/animedesuofficial
 
-v0.1.3 Progress...
-
-</info>
-<tmInfoea>
-Mau menambahkan anime menjadi lebih banyak di versi 0.1.2? (3000+ Anime loh)
+Mau menambahkan anime menjadi lebih banyak? (3000+ Anime loh)
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai.
 
-v0.1.2 Fixed telah upload di Telegram!
-
-Mohon maaf di v0.1.2 streaming dan download ada yg rusak karena kesalahan saat merilis aplikasi di google play store.
-Silakan unduh v0.1.2 Fixed yang ada di telegram!. Jika kamu pakai apk yg di unduh dari play store harap unduh dan pakai yang di telegram!
-
-v0.1.3 Sedang dalam proses.
-- Mencoba method baru update server tanpa update app!
-- Perbaikan performa app.
-
+Data Anime sedang dalam proses...
+</info>
+<tmInfoea>
 Data sedang dalam proses penambahan anime.
 - Anime Bakegyamon (tersedia hanya di player ke 2)</tmInfoea>
 <uphost>https://www.neonime.vip/episode/</uphost>
