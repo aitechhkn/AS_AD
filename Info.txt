@@ -14,6 +14,8 @@ Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)"
 
 Jika info studio anime tanda tanya(?) Dan info waktu, kualitas hanya tersedia 360p (data anime Beta)
 
+Gak mau data kedouble"? jangan gunakan Data beta!
+
 Data Anime sedang dalam proses...
 </info>
 <tmInfoea>
