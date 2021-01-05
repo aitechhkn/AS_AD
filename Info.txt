@@ -5,7 +5,8 @@
 <info>Selamat datang di AnimeDesu.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi IDM support!
-
+</info>
+<tmInfoea>
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
 https://t.me/animedesuofficial
 
@@ -18,8 +19,7 @@ Gak mau data kedouble"? jangan gunakan Data beta!
 
 Mohon maaf versi ini terdapat bug yg sangat berpengaruh saat mendownload dan streaming...
 Silakan cek informasi terlebih lanjut di telegram.
-</info>
-<tmInfoea>
+
 Data sedang dalam proses penambahan anime.
 - Anime Bakegyamon (tersedia hanya di player ke 2)</tmInfoea>
 <uphost>https://www.neonime.vip/episode/</uphost>
