@@ -18,7 +18,6 @@ Gak mau data kedouble"? jangan gunakan Data beta!
 
 Mohon maaf versi ini terdapat bug yg sangat berpengaruh saat mendownload dan streaming...
 Silakan cek informasi terlebih lanjut di telegram.
-Data Anime sedang dalam proses...
 </info>
 <tmInfoea>
 Data sedang dalam proses penambahan anime.
