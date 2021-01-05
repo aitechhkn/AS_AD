@@ -53,4 +53,4 @@ Data sedang dalam proses penambahan anime.
 <strim_hosts>oni.gomunime.com|</strim_hosts>
 <adsinteres>3/10|6/10|6/10</adsinteres>
 <srcby>false</srcby>
-<srcbycode>9:0|10:0</srcbycode>
+<srcbycode>9:0|10:1</srcbycode>
