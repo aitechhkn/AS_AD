@@ -5,6 +5,12 @@
 <info>Selamat datang di AnimeDesu.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi IDM support!
+Next Update v0.1.5 apa yang baru?
+- Pengurangan penggunaan RAM.
+- Mempercepat loading Koleksi dan Histori.
+- Penambahan fitur screen orientation di streaming.
+- Penambahan beberapa fitur di pengaturan.
+- Perbaikan beberapa bug.
 </info>
 <tmInfoea>
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
@@ -51,6 +57,6 @@ Data sedang dalam proses penambahan anime.
 <data1>https://github.com/aitechhkn/AS_AD/raw/master/Data.rar</data1>
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/db_old_anim.rar</data2>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
-<adsinteres>3/10|6/10|6/10</adsinteres>
+<adsinteres>2/10|4/10|4/10</adsinteres>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0</srcbycode>
