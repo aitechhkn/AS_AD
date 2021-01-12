@@ -9,6 +9,7 @@ Next Update v0.1.5 apa yang baru?
 - Pengurangan penggunaan RAM.
 - Mempercepat loading Koleksi dan Histori.
 - Penambahan fitur screen orientation di streaming.
+- App download manager sekarang bisa memilih sendiri.
 - Penambahan beberapa fitur di pengaturan.
 - Perbaikan beberapa bug.
 </info>
