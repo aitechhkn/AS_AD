@@ -6,6 +6,7 @@
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi IDM support!
 Next Update v0.1.5 apa yang baru?
+- Menambah performa app.
 - Pengurangan penggunaan RAM.
 - Mempercepat loading Koleksi dan Histori.
 - Penambahan fitur screen orientation di streaming.
