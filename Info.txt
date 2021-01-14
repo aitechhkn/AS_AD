@@ -13,7 +13,7 @@ Next Update v0.1.5 apa yang baru?
 - App download manager sekarang bisa memilih sendiri.
 - Penambahan beberapa fitur di pengaturan.
 - Perbaikan beberapa bug.
-</info>
+v0.1.5 SNAPSHOT#1 sudah ada di Telegram.</info>
 <tmInfoea>
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
 https://t.me/animedesuofficial
