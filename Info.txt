@@ -5,6 +5,7 @@
 <info>Selamat datang di AnimeDesu.
 
 Silakan gunakan aplikasi tambahan IDM untuk mendownload, agar download menjadi lebih cepat dan semua versi IDM support!
+
 Next Update v0.1.5 apa yang baru?
 - Menambah performa app.
 - Pengurangan penggunaan RAM.
@@ -43,7 +44,7 @@ Data sedang dalam proses penambahan anime.
     <anime>Oregairu|[x]|https://images4.alphacoders.com/599/thumb-1920-599322.png</anime>
     <anime>Nisekoi|[x]|https://wallpaperaccess.com/full/1326559.jpg</anime>
     <anime>Strike The Blood|[x]|https://vistapointe.net/images/strike-the-blood-5.jpg</anime>
-    <anime>ReLife|[x]|https://wallpaperaccess.com/full/1913237.jpg</anime>
+    <anime>ReLIFE|[x]|https://wallpaperaccess.com/full/1913237.jpg</anime>
     <anime>Overlord|[x]|https://images6.alphacoders.com/626/thumb-1920-626763.jpg</anime>
     <anime>Charlotte|[x]|https://images.alphacoders.com/654/654871.png</anime>
     <anime>Koe no Katachi|[x]|https://images4.alphacoders.com/738/738316.jpg</anime>
@@ -52,6 +53,7 @@ Data sedang dalam proses penambahan anime.
     <anime>Mahouka Koukou no Rettousei|[x]|https://images7.alphacoders.com/740/thumb-1920-740267.jpg</anime>
     <anime>Weathering with You (Tenki no Ko)|[x]|https://images3.alphacoders.com/109/1092990.png</anime>
     <anime>Naruto: Shippuuden|[x]|https://c4.wallpaperflare.com/wallpaper/194/181/147/game-naruto-anime-ninja-wallpaper-preview.jpg</anime>
+    <anime>Jujutsu Kaisen|[x]|https://wallpapercave.com/wp/wp8001408.jpg</anime>
 </beranda>
 <uplinktelegram>https://t.me/animedesuofficial</uplinktelegram>
 <uplink>https://play.google.com/store/apps/details?id=me.phantomx.animedesu</uplink>
