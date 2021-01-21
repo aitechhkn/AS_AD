@@ -10,7 +10,8 @@ Mau menambahkan anime menjadi lebih banyak?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME LAMA (BETA)" tunggu hingga download selesai.
 Terdapat Pembaruan Data dan Data Anime Lama silakan diperbarui di pengaturan ya.
 Pembaruan hanya penambahan anime baru dan informasi anime lama
-Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline terlihat.</info>
+Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline terlihat.
+untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak memadai!. di update selanjutnya akan diusahakan optimisasi penggunaan RAM.</info>
 <tmInfoea>
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
 https://t.me/animedesuofficial
@@ -22,8 +23,7 @@ Jika info studio anime tanda tanya(?) Dan info waktu, kualitas hanya tersedia 36
 
 Gak mau data kedouble"? jangan gunakan Data beta!
 
-Mohon maaf versi ini terdapat bug yg sangat berpengaruh saat mendownload dan streaming...
-Silakan cek informasi terlebih lanjut di telegram.
+
 
 Data sedang dalam proses penambahan anime.
 - Anime Bakegyamon (tersedia hanya di player ke 2)</tmInfoea>
