@@ -59,4 +59,4 @@ Data sedang dalam proses penambahan anime.
 <adsinteres>2/15|6/15|5/15</adsinteres>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
-<strembuffdurasims>50000, 50000, 2000, 2000</strembuffdurasims>
+<strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
