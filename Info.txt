@@ -56,7 +56,7 @@ Data sedang dalam proses penambahan anime.
 <data1>https://github.com/aitechhkn/AS_AD/raw/master/SEA.skr</data1>
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/EUR.skr</data2>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
-<adsinteres>2/15|6/15|5/15</adsinteres>
+<adsinteres>2/15|6/10|5/15</adsinteres>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
