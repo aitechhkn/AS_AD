@@ -1,5 +1,6 @@
 <senin>
   <anime>Mushoku Tensei: Isekai Ittara Honki Dasu|-|https://neonime.vip/tvshows/mushoku-tensei-isekai-ittara-honki-dasu-subtitle-indonesia/</anime>
+  <anime>Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Subtitle Indonesia|-|https://neonime.vip/tvshows/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-subtitle-indonesia/</anime>
 </senin>
 <selasa>
   <anime>Black Clover|-|https://neonime.vip/tvshows/black-clover-subtitle-indonesia/</anime>
