@@ -1,10 +1,31 @@
 <senin>
   <anime>Mushoku Tensei: Isekai Ittara Honki Dasu|-|https://neonime.vip/tvshows/mushoku-tensei-isekai-ittara-honki-dasu-subtitle-indonesia/</anime>
   <anime>Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Subtitle Indonesia|-|https://neonime.vip/tvshows/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-subtitle-indonesia/</anime>
+  <anime>Urasekai Picnic|-|https://neonime.vip/tvshows/urasekai-picnic-subtitle-indonesia/</anime>
+  <anime>Non Non Biyori Nonstop|-|https://neonime.vip/tvshows/non-non-biyori-nonstop-subtitle-indonesia/</anime>
+  <anime>Shingeki no Kyojin: The Final Season|-|https://neonime.vip/tvshows/shingeki-no-kyojin-the-final-season-subtitle-indonesia/</anime>
 </senin>
 <selasa>
   <anime>Black Clover|-|https://neonime.vip/tvshows/black-clover-subtitle-indonesia/</anime>
+  <anime>Uma Musume: Pretty Derby Season 2|-|https://neonime.vip/tvshows/uma-musume-pretty-derby-season-2-subtitle-indonesia/</anime>
 </selasa>
 <rabu>
   <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Wonder Egg Priority|-|https://neonime.vip/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
 </rabu>
+<kamis>
+  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Wonder Egg Priority|-|https://neonime.vip/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
+</kamis>
+<jumat>
+  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Wonder Egg Priority|-|https://neonime.vip/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
+</jumat>
+<sabtu>
+  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Wonder Egg Priority|-|https://neonime.vip/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
+</sabtu>
+<minggu>
+  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Wonder Egg Priority|-|https://neonime.vip/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
+</minggu>
