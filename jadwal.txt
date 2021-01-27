@@ -1,3 +1,9 @@
 <senin>
-  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+  <anime>Mushoku Tensei: Isekai Ittara Honki Dasu|-|https://neonime.vip/tvshows/mushoku-tensei-isekai-ittara-honki-dasu-subtitle-indonesia/</anime>
 </senin>
+<selasa>
+  <anime>Black Clover|-|https://neonime.vip/tvshows/black-clover-subtitle-indonesia/</anime>
+</selasa>
+<rabu>
+  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
+</rabu>
