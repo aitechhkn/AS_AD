@@ -12,7 +12,8 @@ Terdapat Pembaruan Data dan Data Anime Lama silakan diperbarui di pengaturan ya.
 Pembaruan hanya penambahan anime baru dan informasi anime lama
 Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline terlihat.
 untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak memadai!. di update selanjutnya akan diusahakan optimisasi penggunaan RAM dibawah 4GB.
-Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan.</info>
+Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan.
+Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
 <tmInfoea>
 Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
 https://t.me/animedesuofficial
@@ -57,8 +58,8 @@ Data sedang dalam proses penambahan anime.
 <data1>https://github.com/aitechhkn/AS_AD/raw/master/SEA.skr</data1>
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/EUR.skr</data2>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
-# Batch, Lanjut Strim, Eps
-<adsinteres>2/15|5/15|15/1</adsinteres>
+# Batch, Lanjut Strim, Eps, prevnext
+<adsinteres>2/15|5/15|15/1|2/15</adsinteres>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
