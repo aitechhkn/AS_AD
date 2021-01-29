@@ -14,21 +14,6 @@ Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline
 untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak memadai!. di update selanjutnya akan diusahakan optimisasi penggunaan RAM dibawah 4GB.
 Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan.
 Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
-<tmInfoea>
-Silakan join Telegram untuk Chat, Lapor Bug atau infomasi lainnya yah...
-https://t.me/animedesuofficial
-
-Mau menambahkan anime menjadi lebih banyak? (3000+ Anime loh) tapi kualitas hanya 360p
-Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME (BETA)" tunggu hingga download selesai.
-
-Jika info studio anime tanda tanya(?) Dan info waktu, kualitas hanya tersedia 360p (data anime Beta)
-
-Gak mau data kedouble"? jangan gunakan Data beta!
-
-
-
-Data sedang dalam proses penambahan anime.
-- Anime Bakegyamon (tersedia hanya di player ke 2)</tmInfoea>
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
@@ -60,6 +45,7 @@ Data sedang dalam proses penambahan anime.
 <strim_hosts>oni.gomunime.com|</strim_hosts>
 # Batch, Lanjut Strim, Eps, prevnext
 <adsinteres>2/15|5/15|15/1|2/15</adsinteres>
+<adslost>9/10|9/10</adslost>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
