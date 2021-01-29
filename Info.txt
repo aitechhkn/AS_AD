@@ -45,7 +45,7 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
 # Batch, Lanjut Strim, Eps, prevnext
 <adsinteres>2/15|5/15|15/1|2/15</adsinteres>
-<adslost>9/10|9/10|9/10</adslost>
+<adslost>1/10|1/10|1/10</adslost>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
