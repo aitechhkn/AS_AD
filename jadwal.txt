@@ -56,4 +56,6 @@
   <anime>Horimiya|-|https://neonime.vip/tvshows/horimiya-subtitle-indonesia/</anime>
   <anime>One Piece|-|https://neonime.vip/tvshows/one-piece-subtitle-indonesia/</anime>
   <anime>Digimon Adventure: (2020)|-|https://neonime.vip/tvshows/digimon-adventure-2020-subtitle-indonesia/</anime>
+  <anime>Back Arrow|-|https://neonime.vip/tvshows/back-arrow-subtitle-indonesia/</anime>
+  <anime>Boruto|-|https://neonime.vip/tvshows/boruto-subtitle-indonesia/</anime>
 </minggu>
