@@ -36,7 +36,7 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
     <anime>Mahouka Koukou no Rettousei|[x]|https://images7.alphacoders.com/740/thumb-1920-740267.jpg</anime>
     <anime>Weathering with You (Tenki no Ko)|[x]|https://images3.alphacoders.com/109/1092990.png</anime>
     <anime>Naruto: Shippuuden|[x]|https://c4.wallpaperflare.com/wallpaper/194/181/147/game-naruto-anime-ninja-wallpaper-preview.jpg</anime>
-    <animekaisen>Jujutsu Kaisen|[x]|https://wallpapercave.com/wp/wp8001408.jpg</animekaisen>
+    <anime>Jujutsu Kaisen|[x]|https://wallpapercave.com/wp/wp8001408.jpg</anime>
 </beranda>
 <uplinktelegram>https://t.me/animedesuofficial</uplinktelegram>
 <uplink>https://play.google.com/store/apps/details?id=me.phantomx.animedesu</uplink>
@@ -45,7 +45,7 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
 # Batch, Lanjut Strim, Eps, prevnext
 <adsinteres>2/15|5/15|15/1|2/15</adsinteres>
-<adslost>1/10|1/10|1/10</adslost>
+<adslost>1/20|1/20|1/20</adslost>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
