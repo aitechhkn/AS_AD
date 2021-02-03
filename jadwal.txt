@@ -40,6 +40,7 @@
   <anime>Kumo Desu ga, Nani ka?|-|https://neonime.vip/tvshows/kumo-desu-ga-nani-ka-subtitle-indonesia/</anime>
   <anime>2.43: Seiin Koukou Danshi Volley-bu|-|https://neonime.vip/tvshows/2-43-seiin-koukou-danshi-volley-bu-subtitle-indonesia/</anime>
   <anime>Hataraku Saibou Black|-|https://neonime.vip/tvshows/hataraku-saibou-black-tv-subtitle-indonesia/</anime>
+  <anime>Hataraku Saibou!! Season 2|-|https://neonime.vip/tvshows/hataraku-saibou-season-2-subtitle-indonesia/</anime>
   <anime>Yakusoku no Neverland Season 2|-|https://neonime.vip/tvshows/yakusoku-no-neverland-season-2-subtitle-indonesia/</anime>
 </jumat>
 <sabtu>
