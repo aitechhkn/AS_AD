@@ -47,6 +47,6 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
 <adsinteres>2/15|5/15|15/1|2/15</adsinteres>
 <adslost>1/20|1/20|1/20</adslost>
 <srcby>false</srcby>
-<srcbycode>9:0|10:0|11:0|12:1</srcbycode>
+<srcbycode>9:0|10:0|11:0|12:1|13:1</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
 <bann>0|0</bann>
