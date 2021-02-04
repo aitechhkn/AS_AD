@@ -7,14 +7,14 @@
 Silakan gunakan aplikasi tambahan untuk mendownload (semua versi IDM atau ADM), Cek di pengaturan ya.
 
 Mau menambahkan anime menjadi lebih banyak?
-Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME LAMA (BETA)" tunggu hingga download selesai.</info>
+Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME LAMA (BETA)" tunggu hingga download selesai.
+Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan!.</info>
 <tmpInfo>
 Terdapat Pembaruan Data dan Data Anime Lama silakan diperbarui di pengaturan ya.
 Pembaruan hanya penambahan anime baru dan informasi anime lama
 Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline terlihat.
 untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak memadai!. di update selanjutnya akan diusahakan optimisasi penggunaan RAM dibawah 4GB.
 Bagi yang menggunakan data anime lama silakan di Perbarui!.
-Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan.
 </tmpInfo>
 
 <uphost>https://www.neonime.vip/episode/</uphost>
