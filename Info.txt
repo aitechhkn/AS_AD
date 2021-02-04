@@ -4,16 +4,18 @@
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <info>Selamat datang di AnimeDesu.
 
-Silakan gunakan aplikasi tambahan untuk mendownload (semua versi IDM atau ADM), Cek di pengaturan ya.
-
+Silakan gunakan aplikasi tambahan untuk mendownload (semua versi IDM atau ADM), Cek di pengaturan ya.</info>
+<tmpInfo>
 Mau menambahkan anime menjadi lebih banyak?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME LAMA (BETA)" tunggu hingga download selesai.
 Terdapat Pembaruan Data dan Data Anime Lama silakan diperbarui di pengaturan ya.
 Pembaruan hanya penambahan anime baru dan informasi anime lama
 Untuk yang streaming buffering terus harap tunggu hingga garis putih di timeline terlihat.
 untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak memadai!. di update selanjutnya akan diusahakan optimisasi penggunaan RAM dibawah 4GB.
+Bagi yang menggunakan data anime lama silakan di Perbarui!.
 Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan.
-Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
+</tmpInfo>
+
 <uphost>https://www.neonime.vip/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
@@ -47,6 +49,6 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.</info>
 <adsinteres>2/15|5/15|15/1|2/15</adsinteres>
 <adslost>1/20|1/20|1/20</adslost>
 <srcby>false</srcby>
-<srcbycode>9:0|10:0|11:0|12:1</srcbycode>
+<srcbycode>9:0|10:0|11:0|12:1|13:1</srcbycode>
 <strembuffdurasims>50000, 50000, 5000, 5000</strembuffdurasims>
 <bann>0|0</bann>
