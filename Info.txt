@@ -10,7 +10,9 @@ Mau menambahkan anime menjadi lebih banyak?
 Silakan cek bagian pengaturan lalu klik tombol "TAMBAHKAN/PERBARUI ANIME LAMA (BETA)" tunggu hingga download selesai.
 Mohon maaf terjadi bug di bagian iklan saat mendownload. Iklan saat mendownload telah dimatikan!.
 
-PERHATIAN!: Untuk android di bawah system requirements akan terjadi bug seperti Player Loading terus. Developer sedang menginvestigasi masalah ini dan akan memperbaiki secepatnya!</info>
+PERHATIAN!: Untuk android di bawah system requirements akan terjadi bug seperti Player Loading terus. Developer sedang menginvestigasi masalah ini dan akan memperbaiki secepatnya!
+
+Open Beta akan dibuka untuk memperbaiki aplikasi di perangkat yang terkendala.</info>
 <tmpInfo>
 Terdapat Pembaruan Data dan Data Anime Lama silakan diperbarui di pengaturan ya.
 Pembaruan hanya penambahan anime baru dan informasi anime lama
@@ -49,7 +51,7 @@ Bagi yang menggunakan data anime lama silakan di Perbarui!.
 <data2>https://github.com/aitechhkn/AS_AD/raw/master/EUR.skr</data2>
 <strim_hosts>oni.gomunime.com|</strim_hosts>
 # Batch, Lanjut Strim, Eps, prevnext
-<adsinteres>1/200|2/150|15/1|2/100</adsinteres>
+<adsinteres>1/200|2/150|150/1|2/100</adsinteres>
 <adslost>1/20|1/20|1/20</adslost>
 <srcby>false</srcby>
 <srcbycode>9:0|10:0|11:0|12:1|13:1|14:0|15:1</srcbycode>
