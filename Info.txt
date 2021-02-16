@@ -1,6 +1,6 @@
 <versi>v0.1.6</versi>
-<kodeversi>14</kodeversi>
-<harusup>0</harusup>
+<kodeversi>15</kodeversi>
+<harusup>1</harusup>
 <splash>AnimeDesu|[x]|https://c4.wallpaperflare.com/wallpaper/168/303/741/saenai-heroine-no-sodatekata-anime-girls-megumi-katou-kuzu-no-honkai-wallpaper-preview.jpg</splash>
 <info>Selamat datang di AnimeDesu.
 
