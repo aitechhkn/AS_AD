@@ -8,6 +8,7 @@
   <anime>Idoly Pride|-|https://neonime.vip/tvshows/idoly-pride-subtitle-indonesia/</anime>
   <anime>Gintama: The Semi-Final|-|https://neonime.vip/tvshows/gintama-the-semi-final-subtitle-indonesia/</anime>
   <anime>Azur Lane: Bisoku Zenshin!|-|https://neonime.vip/tvshows/azur-lane-bisoku-zenshin-subtitle-indonesia/</anime>
+  <anime>SK8 the Infinity (Test v0.1.8)|-|https://moenime.web.id/sk-eight-sub-indo/</anime>
 </senin>
 <selasa>
   <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.vip/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
