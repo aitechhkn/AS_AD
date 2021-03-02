@@ -21,7 +21,7 @@ untuk Hp RAM dibawah 4GB akan ada kemungkinan bug di pencarian karena ram tidak 
 Bagi yang menggunakan data anime lama silakan di Perbarui!.
 </tmpInfo>
 
-<uphost>https://www.neonime.vip/episode/</uphost>
+<uphost>https://www.neonime.site/episode/</uphost>
 <pencarianhost>https://anikyojin.net/?s=[x]&post_type=post</pencarianhost>
 <pencarianhostpage>https://anikyojin.net/page/[C]/?s=[x]&post_type=post</pencarianhostpage>
 <betaAds>0x00C0A0DS</betaAds>
