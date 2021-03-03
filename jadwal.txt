@@ -4,11 +4,11 @@
   <anime>Shingeki no Kyojin: The Final Season|-|https://neonime.site/tvshows/shingeki-no-kyojin-the-final-season-subtitle-indonesia/</anime>
   <anime>Urasekai Picnic|-|https://neonime.site/tvshows/urasekai-picnic-subtitle-indonesia/</anime>
   <anime>Non Non Biyori Nonstop|-|https://neonime.site/tvshows/non-non-biyori-nonstop-subtitle-indonesia/</anime>
-  <anime>Kemono Jihen|-|https://otakudesu.tv/anime/kemo-jihen-sub-indo/</anime>
+  <anime>Kemono Jihen|-|https://otakudesu.moe/anime/kemo-jihen-sub-indo/</anime>
   <anime>Idoly Pride|-|https://neonime.site/tvshows/idoly-pride-subtitle-indonesia/</anime>
   <anime>Gintama: The Semi-Final|-|https://neonime.site/tvshows/gintama-the-semi-final-subtitle-indonesia/</anime>
   <anime>Azur Lane: Bisoku Zenshin!|-|https://neonime.site/tvshows/azur-lane-bisoku-zenshin-subtitle-indonesia/</anime>
-  <anime>SK8 the Infinity (Test v0.1.8)|-|https://moenime.web.id/sk-eight-sub-indo/</anime>
+  <anime>SK Eight|-|https://otakudesu.moe/anime/sk8-sub-indo/</anime>
 </senin>
 <selasa>
   <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.site/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
