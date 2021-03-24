@@ -1,0 +1,13 @@
+{
+  "method": "ZippyShare",
+  "function": true,
+  "invokeClick": false,
+  "functionMethod": {
+    "1": 100,
+    "2": "null"
+  },
+  "invokeMethod": {
+    "1": 100,
+    "2": "dlbutton"
+  }
+}
