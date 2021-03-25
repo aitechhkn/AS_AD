@@ -6,6 +6,7 @@
       <method>dlbutton</method>
     </M0>
     <M1>document.getElementById('dlbutton').click()</M1>
+    <M2>javascript:document.getElementsByClassName('dlbutton').click()</M2>
 </ZippyShare>
 <Sharer>
     <method>0</method>
