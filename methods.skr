@@ -25,18 +25,14 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>0</method>
+    <method>1</method>
     <M0>
-        <method>500</method>
+        <method>100</method>
         <method>download</method>
     </M0>
     <M1>
         <method>500</method>
-        <method>function myFunction() {
-                    var x = document.getElementsByTagName("SVG");
-                    x[0].click();
-                }
-        </method>
+        <method>buildDownload()</method>
     </M1>
     <M2>
         <method>500</method>
