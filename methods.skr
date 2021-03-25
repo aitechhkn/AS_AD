@@ -5,6 +5,7 @@
 
 
 <ZippyShare>
+    <startBlock>1</startBlock>
     <method>0</method>
     <M0>
       <method>200</method>
@@ -14,6 +15,7 @@
     <M2>javascript:document.getElementsByClassName('dlbutton').click()</M2>
 </ZippyShare>
 <Sharer>
+    <startBlock>1</startBlock>
     <method>0</method>
     <M0>
       <method>1000</method>
@@ -22,6 +24,7 @@
     <M1>null</M1>
 </Sharer>
 <Fembed>
+    <startBlock>femax20.|~|</startBlock>
     <method>1</method>
     <M0>
       <method>200</method>
