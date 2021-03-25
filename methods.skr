@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my.:=:Sharer</methods>
 <ZippyShare>
     <method>0</method>
     <M0>
@@ -7,3 +7,11 @@
     </M0>
     <M1>null</M1>
 </ZippyShare>
+<Sharer>
+    <method>0</method>
+    <M0>
+      <method>500</method>
+      <method>btnDownload</method>
+    </M0>
+    <M1>null</M1>
+</Sharer>
