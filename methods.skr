@@ -24,7 +24,7 @@
     <M1>null</M1>
 </Sharer>
 <Fembed>
-    <startBlock>femax20.|~|</startBlock>
+    <startBlock>femax20.:=:fembed.|~|</startBlock>
     <method>1</method>
     <M0>
       <method>200</method>
