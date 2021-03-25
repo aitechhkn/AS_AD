@@ -3,7 +3,7 @@
     
     {
       "nama" : "sharer.",
-      "method": "0",
+      "method": 0,
       "data": {
         "0": {
           "1":"100",
@@ -17,7 +17,7 @@
     },
     {
       "nama" : "zippyshare",
-      "method": "0",
+      "method": 0,
       "data": {
         "0": {
           "1":"100",
