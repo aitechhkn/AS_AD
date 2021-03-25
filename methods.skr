@@ -32,7 +32,11 @@
     </M0>
     <M1>
         <method>500</method>
-        <method>buildDownload()</method>
+        <method>function myFunction() {
+                    var x = document.getElementsByTagName("LI");
+                    x[0].click();
+                }
+        </method>
     </M1>
     <M2>
         <method>500</method>
