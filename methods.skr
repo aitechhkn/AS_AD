@@ -25,10 +25,11 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>1</method>
+    <method>2</method>
     <M0>
       <method>200</method>
       <method>dlbutton</method>
     </M0>
     <M1>buildDownload()</M1>
+    <M2>javascript:document.getElementsByClassName('faplbu').click()</M2>
 </Fembed>
