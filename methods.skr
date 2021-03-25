@@ -1,4 +1,9 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed</methods>
+<replacer>.fembed.:=:FembedReplace</replacer>
+
+<FembedReplace>/v/:=:/f/|~|</FembedReplace>
+
+
 <ZippyShare>
     <method>0</method>
     <M0>
@@ -18,7 +23,6 @@
 </Sharer>
 <Fembed>
     <method>1</method>
-    <replace>/v/:=:/f/|~|</replace>
     <M0>
       <method>200</method>
       <method>dlbutton</method>
