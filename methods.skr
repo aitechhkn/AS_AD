@@ -1,7 +1,7 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed</methods>
 <replacer>.fembed.:=:FembedReplace|~|</replacer>
 
-<FembedReplace>/v/:=:/v/|~|</FembedReplace>
+<FembedReplace>/v/:=:/f/|~|</FembedReplace>
 
 
 <ZippyShare>
