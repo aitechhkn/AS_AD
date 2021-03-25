@@ -25,10 +25,10 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>1</method>
+    <method>0</method>
     <M0>
-        <method>200</method>
-        <method>dlbutton</method>
+        <method>500</method>
+        <method>download</method>
     </M0>
     <M1>
         <method>500</method>
