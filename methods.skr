@@ -1,7 +1,7 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed</methods>
 <replacer>.fembed.:=:FembedReplace|~|</replacer>
 
-<FembedReplace>/v/:=:/v/|~|</FembedReplace>
+<FembedReplace>/v/:=:/f/|~|</FembedReplace>
 
 
 <ZippyShare>
@@ -25,13 +25,13 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>2</method>
+    <method>1</method>
     <M0>
         <method>200</method>
         <method>dlbutton</method>
     </M0>
     <M1>
-        <method>200</method>
+        <method>500</method>
         <method>buildDownload()</method>
     </M1>
     <M2>
