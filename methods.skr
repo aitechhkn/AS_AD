@@ -31,7 +31,9 @@
         <method>download</method>
     </M0>
     <M1>
-        <method>500</method>
+        <method>200</method>
+        <method>document.getElementById('download').click()</method>
+        <method>600</method>
         <method>buildDownload()</method>
     </M1>
     <M2>
