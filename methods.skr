@@ -5,7 +5,7 @@
       <method>200</method>
       <method>dlbutton</method>
     </M0>
-    <M1>null</M1>
+    <M1>document.getElementById('dlbutton').click()</M1>
 </ZippyShare>
 <Sharer>
     <method>0</method>
@@ -16,11 +16,11 @@
     <M1>null</M1>
 </Sharer>
 <Fembed>
-    <method>0</method>
+    <method>1</method>
     <replace>/v/:=:/f/|~|</replace>
     <M0>
       <method>200</method>
       <method>dlbutton</method>
     </M0>
-    <M1>null</M1>
+    <M1>buildDownload()</M1>
 </Fembed>
