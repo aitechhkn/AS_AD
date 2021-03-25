@@ -1,7 +1,7 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed</methods>
 <replacer>.fembed.:=:FembedReplace|~|</replacer>
 
-<FembedReplace>/v/:=:/f/|~|</FembedReplace>
+<FembedReplace>/v/:=:/v/|~|</FembedReplace>
 
 
 <ZippyShare>
@@ -33,7 +33,7 @@
     <M1>
         <method>500</method>
         <method>function myFunction() {
-                    var x = document.getElementsByTagName("LI");
+                    var x = document.getElementsByTagName("SVG");
                     x[0].click();
                 }
         </method>
