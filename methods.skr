@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed</methods>
 <ZippyShare>
     <method>0</method>
     <M0>
@@ -15,3 +15,12 @@
     </M0>
     <M1>null</M1>
 </Sharer>
+<Fembed>
+    <method>0</method>
+    <replace>/v/:=:/f/|~|</replace>
+    <M0>
+      <method>200</method>
+      <method>dlbutton</method>
+    </M0>
+    <M1>null</M1>
+</Fembed>
