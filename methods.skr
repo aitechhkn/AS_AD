@@ -38,7 +38,7 @@
     </M0>
     <M1>
         <method>function countdown($this) {
-    var t = parseInt($('#countdown').html(),5);
+    var t = parseInt($('#countdown').html(),3);
     if(t == 0) {
         clearTimeout(timeOut);
         $('#countdown').hide();
@@ -47,7 +47,7 @@
     } else {
         t--;
         $('#countdown').html(t);
-        timeOut = setTimeout(function(){countdown($this);}, 100);
+        timeOut = setTimeout(function(){countdown($this);}, 1000);
     }
 }       </method>
         <method>500</method>
