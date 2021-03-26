@@ -11,8 +11,14 @@
         <method>200</method>
         <method>dlbutton</method>
     </M0>
-    <M1>document.getElementById('dlbutton').click()</M1>
-    <M2>javascript:document.getElementsByClassName('dlbutton').click()</M2>
+    <M1>
+        <method>1000</method>
+        <method>document.getElementById('dlbutton').click()</method>
+    </M1>
+    <M2>
+        <method>1000</method>
+        <method>javascript:document.getElementsByClassName('dlbutton').click()</method>
+    </M2>
 </ZippyShare>
 <Sharer>
     <startBlock>1</startBlock>
@@ -25,7 +31,7 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>0</method>
+    <method>2</method>
     <M0>
         <method>100</method>
         <method>download</method>
@@ -33,8 +39,8 @@
     <M1>
         <method>100</method>
         <method>document.getElementById('download').click()</method>
-        <method>10000</method>
-        <method>buildDownload()</method>
+        <method>500</method>
+        <method>(function(){t = 1})();</method>
     </M1>
     <M2>
         <method>500</method>
