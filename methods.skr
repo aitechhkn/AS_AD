@@ -40,7 +40,7 @@
         <method>100</method>
         <method>document.getElementById('download').click()</method>
         <method>500</method>
-        <method>(function(){t = 1})();</method>
+        <method>(function(){t = 1;})();</method>
     </M1>
     <M2>
         <method>500</method>
