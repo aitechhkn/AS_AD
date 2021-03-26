@@ -39,8 +39,20 @@
     <M1>
         <method>500</method>
         <method>document.getElementById('download').click()</method>
-        <method>1500</method>
-        <method>(function(){t = 1;})();</method>
+        <method>1000</method>
+        <method>function countdown($this) {
+    var t = parseInt($('#countdown').html(),10);
+    if(t == 0) {
+        clearTimeout(timeOut);
+        $('#countdown').hide();
+        $('#predownload').removeClass('has-text-grey-light').addClass('has-text-info').html('Right click on video quality you want to download and select "Save Link As"');
+        buildDownload();
+    } else {
+        t--;
+        $('#countdown').html(t);
+        timeOut = setTimeout(function(){countdown($this);}, 100);
+    }
+}       </method>
     </M1>
     <M2>
         <method>500</method>
