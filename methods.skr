@@ -2,7 +2,7 @@
 <replacer>.fembed.:=:FembedReplace|~|</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
-<fembedJs>.fembed.:=:Fembed|~|femax20.:=:Fembed</fembedJs>
+<fembedJs>.fembed.|~|femax20.</fembedJs>
 
 <ZippyShare>
     <startBlock>1</startBlock>
