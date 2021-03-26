@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|mp4upload.:=:MP4upload</methods>
 <replacer>.fembed.:=:FembedReplace|~|</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
@@ -58,3 +58,14 @@
         <method>javascript:document.getElementsByClassName('faplbu').click()</method>
     </M2>
 </Fembed>
+<MP4upload>
+    <startBlock>1</startBlock>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>todl</method>
+        <method>3000</method>
+        <method>downloadbtn</method>
+    </M0>
+    <M1>null</M1>
+</MP4upload>
