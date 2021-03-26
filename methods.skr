@@ -37,9 +37,6 @@
         <method>download</method>
     </M0>
     <M1>
-        <method>500</method>
-        <method>document.getElementById('download').click()</method>
-        <method>1000</method>
         <method>function countdown($this) {
     var t = parseInt($('#countdown').html(),10);
     if(t == 0) {
@@ -53,6 +50,8 @@
         timeOut = setTimeout(function(){countdown($this);}, 100);
     }
 }       </method>
+        <method>500</method>
+        <method>document.getElementById('download').click()</method>
     </M1>
     <M2>
         <method>500</method>
