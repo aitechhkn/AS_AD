@@ -45,7 +45,7 @@
     if(t == 0) {
         clearTimeout(timeOut);
         $('#countdown').hide();
-        $('#predownload').removeClass('has-text-grey-light').addClass('has-text-info').html('Right click on video quality you want to download and select "Save Link As"');
+        $('#predownload').removeClass('has-text-grey-light').addClass('has-text-info').html('Klik kanan pada kualitas video yang ingin Anda unduh dan pilih "Save Link As"');
         buildDownload();
     } else {
         t--;
