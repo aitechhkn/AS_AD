@@ -25,7 +25,7 @@
 </Sharer>
 <Fembed>
     <startBlock>femax20.|~|</startBlock>
-    <method>1</method>
+    <method>0</method>
     <M0>
         <method>100</method>
         <method>download</method>
