@@ -83,18 +83,6 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>function tick() {
-            console.log('Tick');
-            var remaining = parseInt($(e).find(".seconds").text()) - 1;
-            if (remaining <= 0) {
-                $(e).css('display', 'none');
-                $('#downloadbtn .after').css('display', 'block');
-                $('.downloadbtn').attr('disabled', false);
-            } else {
-                $(e).find(".seconds").text(remaining.toString());
-                setTimeout(tick, 10);
-            }
-        }
-        </method>
+        <method>$('.downloadbtn').attr('disabled', false)</method>
     </M1>
 </Racaty>
