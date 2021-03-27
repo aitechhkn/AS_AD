@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|mp4upload.:=:MP4upload</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload</methods>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
