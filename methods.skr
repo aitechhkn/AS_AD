@@ -1,7 +1,9 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|mp4upload.:=:MP4upload</methods>
-<replacer>.fembed.:=:FembedReplace|~|</replacer>
+<replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
+<MP4UReplace>embed-:=:|~|</MP4UReplace>
+
 <fembedJs>.fembed.|~|femax20.</fembedJs>
 
 <ZippyShare>
@@ -64,7 +66,7 @@
     <M0>
         <method>100</method>
         <method>todl</method>
-        <method>3000</method>
+        <method>wait</method>
         <method>downloadbtn</method>
     </M0>
     <M1>null</M1>
