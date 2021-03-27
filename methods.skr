@@ -83,6 +83,7 @@
         <method>todl</method>
         <method>wait(5000)</method>
         <method>File info</method>
+	<method>1000</method>
         <method>downloadbtn</method>
     </M0>
     <M1>
