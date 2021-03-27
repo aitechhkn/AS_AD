@@ -83,13 +83,18 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>$(document).ready(function()
-{$('#countdown').each(function(i,e)
-{if(timeout)return;var downloadbtn=$(e).parent().find('.downloadbtn');$(downloadbtn).attr('disabled',false);timeout=setTimeout(tick,100);function tick()
-{console.log('Tick');var remaining=parseInt($(e).find(".seconds").text())-1;if(remaining<=0)
-{$(e).css('display','none');$('#downloadbtn .after').css('display','block');$('.downloadbtn').attr('disabled',false);}
-else
-{$(e).find(".seconds").text(remaining.toString());setTimeout(tick,1000);}}});});
+        <method>function tick() {
+            console.log('Tick');
+            var remaining = parseInt($(e).find(".seconds").text()) - 1;
+            if (remaining <= 0) {
+                $(e).css('display', 'none');
+                $('#downloadbtn .after').css('display', 'block');
+                $('.downloadbtn').attr('disabled', false);
+            } else {
+                $(e).find(".seconds").text(remaining.toString());
+                setTimeout(tick, 10);
+            }
+        }
         </method>
     </M1>
 </Racaty>
