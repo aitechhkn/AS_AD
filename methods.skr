@@ -2,7 +2,7 @@
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
-<MP4UReplace>embed-:=:|~|</MP4UReplace>
+<MP4UReplace>embed-:=:`N`|~|</MP4UReplace>
 
 <fembedJs>.fembed.|~|femax20.</fembedJs>
 
