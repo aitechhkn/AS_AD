@@ -84,7 +84,8 @@
     </M0>
     <M1>
         <method>(function() {
-	        document.getElementsByClassName("seconds")[0].innerHTML = "2";
+	        $('#getExtoken').submit();
+		document.getElementsByClassName("seconds")[0].innerHTML = "2";
         })();</method>
     </M1>
 </Racaty>
