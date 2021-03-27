@@ -83,9 +83,10 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>(function() {
-	        $('#getExtoken').submit();
-		document.getElementsByClassName("seconds")[0].innerHTML = "2";
-        })();</method>
+        <method>500</method>
+	<method>$('#getExtoken').submit()</method>
     </M1>
+    <skip>(function() {
+	        $('#getExtoken').submit();
+        })();</skip>
 </Racaty>
