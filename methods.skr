@@ -83,6 +83,8 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>$('.downloadbtn').attr('disabled', false)</method>
+        <method>(function() {
+	        document.getElementsByClassName("example")[0].innerHTML = "Milk";
+        })();</method>
     </M1>
 </Racaty>
