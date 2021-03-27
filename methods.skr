@@ -1,5 +1,6 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty</methods>
-<blokurl>vidoza.|~|</blokurl>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|gdriveplayer.:=:GDPlayer</methods>
+<blokurlstrim>vidoza.|~|</blokurlstrim>
+<blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
@@ -91,3 +92,13 @@
 	        $('#getExtoken').submit();
         })();</skip>
 </Racaty>
+<GDPlayer>
+    <startBlock>1</startBlock>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+    </M0>
+    <M1>
+        <method>500</method>
+    </M1>
+</GDPlayer>
