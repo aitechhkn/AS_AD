@@ -84,7 +84,7 @@
     </M0>
     <M1>
         <method>(function() {
-	        document.getElementsByClassName("example")[0].innerHTML = "Milk";
+	        document.getElementsByClassName("seconds")[0].innerHTML = "2";
         })();</method>
     </M1>
 </Racaty>
