@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|gdriveplayer.</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace</replacer>
@@ -104,3 +104,11 @@
         <method>500</method>
     </M1>
 </GDPlayer>
+<YoUpload>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>download</method>
+    </M0>
+    <M1>null</M1>
+</YoUpload>
