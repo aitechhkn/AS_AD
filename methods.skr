@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|videobin.:=:videoBin</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace</replacer>
@@ -153,3 +153,14 @@
         <method>document.querySelector('.btn-download').click()</method>
     </M1>
 </ElsFile>
+<videoBin>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>
+		<eval>player.options.source</eval>
+		<eval>wait(3000)</eval>
+		<eval>[dunlud]</eval>
+	</method>
+    </M0>
+</videoBin>
