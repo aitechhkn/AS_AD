@@ -140,7 +140,7 @@
     <M0>
         <method>100</method>
         <method>
-		<eval>JSON.parse(VIDEO_CONFIG)['streams'][0]['play_url'];</eval>
+		<eval>JSON.parse(VIDEO_CONFIG)['streams'][0]['play_url']</eval>
 		<eval>wait(3000)</eval>
 		<eval>[dunlud]</eval>
 	</method>
