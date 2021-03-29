@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace</replacer>
@@ -146,3 +146,10 @@
 	</method>
     </M0>
 </BloggerVideo>
+<ElsFile>
+    <method>1</method>
+    <M1>
+        <method>100</method>
+        <method>document.querySelector('.btn-download').click()</method>
+    </M1>
+</ElsFile>
