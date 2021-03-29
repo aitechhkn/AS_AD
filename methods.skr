@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|gdriveplayer.</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace</replacer>
@@ -124,3 +124,14 @@
     </M0>
     <M1>null</M1>
 </DesuStrim>
+<UserVideo>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>
+		<eval>player.currentSrc()</eval>
+		<eval>wait(3000)</eval>
+		<eval>[dunlud]</eval>
+	</method>
+    </M0>
+</UserVideo>
