@@ -1,6 +1,6 @@
 <methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
-<blokurldunlud>vidoza.|~|gdriveplayer.</blokurldunlud>
+<blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace</replacer>
 
 <FembedReplace>/v/:=:/f/|~|</FembedReplace>
