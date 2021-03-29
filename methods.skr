@@ -157,6 +157,6 @@
     <method>1</method>
     <M1>
         <method>100</method>
-        <method>document.querySelector('.btn.btn-primary.btn-sm').click()</method>
+        <method>document.querySelector('.btn-primary').click()</method>
     </M1>
 </SolidFiles>
