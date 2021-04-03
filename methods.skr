@@ -162,8 +162,9 @@
 <MegaUpNet>
     <method>0</method>
     <M0>
-        <method>6000</method>
+        <method>100</method>
         <method>btnsubmit</method>
+	<method>2000</method>
     </M0>
     <M1>null</M1>
 </MegaUpNet>
