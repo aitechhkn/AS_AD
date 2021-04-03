@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.:=:SolidFiles</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.:=:SolidFiles|~|megaup.net:=:MegaUpNet</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace|~|solidfiles.:=:SolidFReplce</replacer>
@@ -160,3 +160,11 @@
         <method>document.querySelector('.btn-primary').click()</method>
     </M1>
 </SolidFiles>
+<MegaUpNet>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>btnsubmit</method>
+    </M0>
+    <M1>null</M1>
+</MegaUpNet>
