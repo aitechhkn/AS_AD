@@ -164,5 +164,6 @@
     <M0>
         <method>100</method>
         <method>btnsubmit</method>
+	<method>10000</method>
     </M0>
 </MegaUpNet>
