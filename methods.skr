@@ -71,6 +71,7 @@
         <method>wait(5000)</method>
         <method>File info</method>
         <method>downloadbtn</method>
+	<method>5000</method>
     </M0>
     <M1>null</M1>
 </MP4upload>
