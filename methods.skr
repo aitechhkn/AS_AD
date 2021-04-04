@@ -174,5 +174,6 @@
 	<method>seconds = 0</method>
 	<method>100</method>
 	<method>document.getElementById('btnsubmit').click()</method>
+	<method>6500</method>
     </M1>
 </MegaUpNet>
