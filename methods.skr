@@ -171,7 +171,7 @@
     <M1>
 	<method>countdownTimer = setInterval('display()', 1000)</method>
 	<method>seconds = 6</method>
-	<method>1000</method>
+	<method>8000</method>
 	<method>document.getElementById('btnsubmit').click()</method>
     </M1>
 </MegaUpNet>
