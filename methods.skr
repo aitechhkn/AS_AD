@@ -176,9 +176,4 @@
 	<method>100</method>
 	<method>document.getElementById('btnsubmit').click()</method>
     </M1>
-    <M00>
-        <method>6000</method>
-        <method>btnsubmit</method>
-	<method>1000</method>
-    </M00>
 </MegaUpNet>
