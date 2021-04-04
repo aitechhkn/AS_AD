@@ -169,11 +169,10 @@
         <method>btnsubmit</method>
     </M0>
     <M1>
-        <method>100</method>
-	<method>countdownTimer = setInterval('display()', 10)</method>
+	<method>countdownTimer = setInterval('display()', 1)</method>
 	<method>seconds = 0</method>
-	<method>100</method>
+	<method>10</method>
 	<method>document.getElementById('btnsubmit').click()</method>
-	<method>6500</method>
+	<method>3000</method>
     </M1>
 </MegaUpNet>
