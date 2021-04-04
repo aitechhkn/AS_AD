@@ -169,8 +169,8 @@
         <method>btnsubmit</method>
     </M0>
     <M1>
-	<method>countdownTimer = setInterval('display()', 100)</method>
-	<methodd>seconds = 2</methodd>
+	<method>countdownTimer = setInterval('display()', 1000)</method>
+	<method>seconds = 6</method>
 	<method>1000</method>
 	<method>document.getElementById('btnsubmit').click()</method>
     </M1>
