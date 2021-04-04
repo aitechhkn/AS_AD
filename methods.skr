@@ -170,7 +170,7 @@
     </M0>
     <M1>
 	<method>countdownTimer = setInterval('display()', 1)</method>
-	<method>seconds = 0</method>
+	<method>seconds = 2</method>
 	<method>10</method>
 	<method>document.getElementById('btnsubmit').click()</method>
 	<method>3000</method>
