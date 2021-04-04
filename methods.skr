@@ -163,8 +163,15 @@
 <MegaUpNet>
     <method>0</method>
     <M0>
+        <method>1000</method>
+        <method>wait(3000)</method>
+        <method>Create Download Link</method>
+	<method>100</method>
+        <method>btnsubmit</method>
+    </M0>
+    <M00>
         <method>6000</method>
         <method>btnsubmit</method>
 	<method>1000</method>
-    </M0>
+    </M00>
 </MegaUpNet>
