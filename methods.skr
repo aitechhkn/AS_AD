@@ -170,7 +170,9 @@
     <M1>
 	<method>countdownTimer = setInterval('display()', 1000)</method>
 	<method>seconds = 6</method>
-	<method>8000</method>
+	<method>wait(3000)</method>
+        <method>Create Download Link</method>
 	<method>document.getElementById('btnsubmit').click()</method>
+	<method>5000</method>
     </M1>
 </MegaUpNet>
