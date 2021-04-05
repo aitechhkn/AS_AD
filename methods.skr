@@ -86,7 +86,7 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>500</method>
+        <method>1000</method>
 	<method>$('#getExtoken').submit()</method>
 	<method>5000</method>
     </M1>
