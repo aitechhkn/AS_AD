@@ -86,11 +86,12 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>2000</method>
+        <method>6000</method>
 	<method>document.querySelector('._xudbaup').click()</method>
-	<method>1000</method>
+	<method>googletag.destroySlots([slot])</method>
+	<method>500</method>
 	<method>$('#getExtoken').submit()</method>
-	<method>5000</method>
+	<method>4000</method>
     </M1>
     <skip>(function() {
 	        $('#getExtoken').submit();
