@@ -5,51 +5,22 @@
   <anime>Gintama: The Semi-Final|-|https://neonime.site/tvshows/gintama-the-semi-final-subtitle-indonesia/</anime>
 </senin>
 <selasa>
-  <anime>Tensei shitara Slime Datta Ken Season 2|-|https://neonime.site/tvshows/tensei-shitara-slime-datta-ken-season-2-subtitle-indonesia/</anime>
-  <anime>Black Clover|-|https://neonime.site/tvshows/black-clover-subtitle-indonesia/</anime>
-  <anime>Uma Musume: Pretty Derby Season 2|-|https://neonime.site/tvshows/uma-musume-pretty-derby-season-2-subtitle-indonesia/</anime>
-  <anime>Shin Chuuka Ichiban! Season 2|-|https://neonime.site/tvshows/shin-chuuka-ichiban-season-2-subtitle-indonesia/</anime>
-  <anime>Shadowverse|-|https://neonime.site/tvshows/shadowverse-tv-subtitle-indonesia/</anime>
-  <anime>Wonder Egg Priority|-|https://neonime.site/tvshows/wonder-egg-priority-subtitle-indonesia/</anime>
-  <anime>Uma Musume: Pretty Derby Season 2|-|https://neonime.site/tvshows/uma-musume-pretty-derby-season-2-subtitle-indonesia/</anime>
+  
 </selasa>
 <rabu>
   <anime>Nanatsu no Taizai S4: Fundo no Shinpan|-|https://neonime.site/tvshows/nanatsu-no-taizai-s4-fundo-no-shinpan-subtitle-indonesia/</anime>
-  <anime>Re:Zero kara Hajimeru Isekai Seikatsu Season 2|-|https://neonime.site/tvshows/rezero-kara-hajimeru-isekai-seikatsu-season-2-subtitle-indonesia/</anime>
-  <anime>Log Horizon Season 3: Entaku Houkai|-|https://neonime.site/tvshows/log-horizon-season-3-entaku-houkai-subtitle-indonesia/</anime>
-  <anime>Bungou Stray Dogs Wan!|-|https://neonime.site/tvshows/bungou-stray-dogs-wan-subtitle-indonesia/</anime>
-  <anime>Gekidol|-|https://neonime.site/tvshows/gekidol-subtitle-indonesia/</anime>
   <anime>Dragon Ball Heroes Season 2: Big Bang Mission|-|https://neonime.site/tvshows/dragon-ball-heroes-season-2-big-bang-mission-subtitle-indonesia/</anime>
-  <anime>Majutsushi Orphen Hagure Tabi Season 2|-|https://neonime.site/tvshows/majutsushi-orphen-hagure-tabi-season-2-subtitle-indonesia/</anime>
 </rabu>
 <kamis>
-  <anime>Kaifuku Jutsushi no Yarinaoshi|-|https://neonime.site/tvshows/kaifuku-jutsushi-no-yarinaoshi-subtitle-indonesia</anime>
-  <anime>Hortensia Saga|-|https://neonime.site/tvshows/hortensia-saga-tv-subtitle-indonesia/</anime>
-  <anime>Soukou Musume Senki|-|https://neonime.site/tvshows/soukou-musume-senki-subtitle-indonesia/</anime>
-  <anime>Dr. Stone Season 2: Stone Wars|-|https://neonime.site/tvshows/dr-stone-season-2-stone-wars-subtitle-indonesia/</anime>
-  <anime>Yuru Camp△ Season 2|-|https://neonime.site/tvshows/yuru-camp△-season-2-subtitle-indonesia/</anime>
+
 </kamis>
 <jumat>
-  <anime>Gotoubun no Hanayome ∬ Season 2|-|https://neonime.site/tvshows/gotoubun-no-hanayome-∬-season-2-subtitle-indonesia/</anime>
-  <anime>Jaku-Chara Tomozaki-kun|-|https://neonime.site/tvshows/jaku-chara-tomozaki-kun-subtitle-indonesia/</anime>
   <anime>Kumo Desu ga, Nani ka?|-|https://neonime.site/tvshows/kumo-desu-ga-nani-ka-subtitle-indonesia/</anime>
-  <anime>2.43: Seiin Koukou Danshi Volley-bu|-|https://neonime.site/tvshows/2-43-seiin-koukou-danshi-volley-bu-subtitle-indonesia/</anime>
-  <anime>Hataraku Saibou Black|-|https://neonime.site/tvshows/hataraku-saibou-black-tv-subtitle-indonesia/</anime>
-  <anime>Hataraku Saibou!! Season 2|-|https://neonime.site/tvshows/hataraku-saibou-season-2-subtitle-indonesia/</anime>
-  <anime>Yakusoku no Neverland Season 2|-|https://neonime.site/tvshows/yakusoku-no-neverland-season-2-subtitle-indonesia/</anime>
 </jumat>
 <sabtu>
-  <anime>Jujutsu Kaisen|-|https://neonime.site/tvshows/jujutsu-kaisen-tv-subtitle-indonesia/</anime>
-  <anime>Ore dake Haireru Kakushi Dungeon|-|https://neonime.site/tvshows/ore-dake-haireru-kakushi-dungeon-subtitle-indonesia/</anime>
-  <anime>King’s Raid: Ishi wo Tsugumono-tachi|-|https://neonime.site/tvshows/kings-raid-ishi-wo-tsugumono-tachi-subtitle-indonesia/</anime>
-  <anime>D4DJ: First Mix|-|https://neonime.site/tvshows/d4dj-first-mix-subtitle-indonesia/</anime>
   <anime>Pokemon (2019)|-|https://neonime.site/tvshows/pokemon-2019-subtitle-indonesia/</anime>
 </sabtu>
 <minggu>
-  <anime>Hanyou no Yashahime: Sengoku Otogizoushi|-|https://neonime.site/tvshows/hanyou-no-yashahime-sengoku-otogizoushi-subtitle-indonesia/</anime>
-  <anime>Beastars Season 2|-|https://neonime.site/tvshows/beastars-season-2-subtitle-indonesia/</anime>
-  <anime>World Trigger Season 2|-|https://neonime.site/tvshows/world-trigger-season-2-subtitle-indonesia/</anime>
-  <anime>Horimiya|-|https://neonime.site/tvshows/horimiya-subtitle-indonesia/</anime>
   <anime>One Piece|-|https://neonime.site/tvshows/one-piece-subtitle-indonesia/</anime>
   <anime>Digimon Adventure: (2020)|-|https://neonime.site/tvshows/digimon-adventure-2020-subtitle-indonesia/</anime>
   <anime>Back Arrow|-|https://neonime.site/tvshows/back-arrow-subtitle-indonesia/</anime>
