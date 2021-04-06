@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|.yourupload.:=:YoUpload|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet|~|files.im:=:FilesIM</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace|~|solidfiles.:=:SolidFReplce</replacer>
@@ -180,3 +180,10 @@
 	<method>5000</method>
     </M1>
 </MegaUpNet>
+<FilesIM>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>download</method>
+    </M0>
+</FilesIM>
