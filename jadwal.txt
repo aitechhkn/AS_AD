@@ -5,9 +5,17 @@
   <anime>Gintama: The Semi-Final|-|https://neonime.site/tvshows/gintama-the-semi-final-subtitle-indonesia/</anime>
 </senin>
 <selasa>
-  
+  <anime>Strike the Blood IV|-|https://neonime.site/tvshows/strike-the-blood-iv-bd-subtitle-indonesia/</anime>
+  <anime>Koi to Yobu ni wa Kimochi Warui|-|https://neonime.site/tvshows/koi-to-yobu-ni-wa-kimochi-warui-subtitle-indonesia/</anime>
+  <anime>Fruits Basket: The Final|-|https://neonime.site/tvshows/fruits-basket-the-final-subtitle-indonesia/</anime>
+  <anime>Sayonara Watashi no Cramer|-|https://neonime.site/tvshows/sayonara-watashi-no-cramer-subtitle-indonesia/</anime>
+  <anime>Hige wo Soru. Soshite Joshikousei wo Hirou.|-|https://neonime.site/tvshows/hige-wo-soru-soshite-joshikousei-wo-hirou-subtitle-indonesia/</anime>
+  <anime>Yakunara Mug Cup mo|-|https://neonime.site/tvshows/yakunara-mug-cup-mo-subtitle-indonesia/</anime>
+  <anime>Nomad: Megalo Box|-|https://neonime.site/tvshows/nomad-megalo-box-season-2-subtitle-indonesia/</anime>
 </selasa>
 <rabu>
+  <anime>Seijo no Maryoku wa Bannou Desu|-|https://neonime.site/tvshows/seijo-no-maryoku-wa-bannou-desu-subtitle-indonesia/</anime>
+  <anime>Tensura Nikki: Tensei shitara Slime Datta Ken|-|https://neonime.site/episode/tensura-nikki-tensei-shitara-slime-datta-ken-1x1/</anime>
   <anime>Nanatsu no Taizai S4: Fundo no Shinpan|-|https://neonime.site/tvshows/nanatsu-no-taizai-s4-fundo-no-shinpan-subtitle-indonesia/</anime>
   <anime>Dragon Ball Heroes Season 2: Big Bang Mission|-|https://neonime.site/tvshows/dragon-ball-heroes-season-2-big-bang-mission-subtitle-indonesia/</anime>
 </rabu>
