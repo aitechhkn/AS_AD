@@ -20,10 +20,13 @@
   <anime>Dragon Ball Heroes Season 2: Big Bang Mission|-|https://neonime.site/tvshows/dragon-ball-heroes-season-2-big-bang-mission-subtitle-indonesia/</anime>
 </rabu>
 <kamis>
-
+  <anime>Super Club|-|https://neonime.site/tvshows/super-cub-subtitle-indonesia/</anime>
+  <anime>Shaman King (2021)|-|https://neonime.site/tvshows/shaman-king-2021-subtitle-indonesia/</anime>
 </kamis>
 <jumat>
   <anime>Kumo Desu ga, Nani ka?|-|https://neonime.site/tvshows/kumo-desu-ga-nani-ka-subtitle-indonesia/</anime>
+  <anime>Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Season 2|-|https://neonime.site/tvshows/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-ω-season-2-subtitle-indonesia/</anime>
+  <anime>SSSS.Dynazenon|-|https://neonime.site/tvshows/ssss-dynazenon-subtitle-indonesia/</anime>
 </jumat>
 <sabtu>
   <anime>Pokemon (2019)|-|https://neonime.site/tvshows/pokemon-2019-subtitle-indonesia/</anime>
