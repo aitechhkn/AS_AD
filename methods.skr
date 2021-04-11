@@ -147,7 +147,7 @@
 <BloggerVideo>
     <method>0</method>
     <M0>
-        <method>100</method>
+        <method>3000</method>
         <method>
 		<eval>VIDEO_CONFIG.streams[0]['play_url']</eval>
 		<eval>wait(3000)</eval>
