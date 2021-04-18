@@ -204,13 +204,14 @@
     </M1>
 </HXFile>
 <LKXII>
-    <method>0</method>
-    <M0>
-        <method>100</method>
+    <method>1</method>
+    <M1>
+        <method>document.getElementsByTagName("svg")[0].elements[0].click()</method>
+	<method>1500</method>
         <method>
 		<eval>jwplayer('vstr').getPlaylistItem()['file']</eval>
 		<eval>wait(3000)</eval>
 		<eval>[dunlud]</eval>
 	</method>
-    </M0>
+    </M1>
 </LKXII>
