@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|yourupload.co/watch/:=:YoUploadWatch|~|yourupload.co/download:=:YoUploadDunlud|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet|~|files.im:=:FilesIM|~|hxfile.co:=:HXFile</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|yourupload.co/watch/:=:YoUploadWatch|~|yourupload.co/download:=:YoUploadDunlud|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet|~|files.im:=:FilesIM|~|hxfile.co:=:HXFile|~|layarkacaxxi.icu/v/:=:LKXII</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace|~|solidfiles.:=:SolidFReplce</replacer>
@@ -203,3 +203,14 @@
         <method>document.querySelector('.btn-dow').click()</method>
     </M1>
 </HXFile>
+<LKXII>
+    <method>0</method>
+    <M0>
+        <method>100</method>
+        <method>
+		<eval>jwplayer('vstr').getPlaylistItem()['file']</eval>
+		<eval>wait(3000)</eval>
+		<eval>[dunlud]</eval>
+	</method>
+    </M0>
+</LKXII>
