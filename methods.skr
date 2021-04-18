@@ -206,7 +206,8 @@
 <LKXII>
     <method>1</method>
     <M1>
-        <method>document.getElementsByTagName("svg")[0].elements[0].click()</method>
+        <method>3000</method>
+	<method>document.getElementsByTagName("svg")[0].elements[0].click()</method>
 	<method>1500</method>
         <method>
 		<eval>jwplayer('vstr').getPlaylistItem()['file']</eval>
