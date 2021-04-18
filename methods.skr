@@ -207,7 +207,13 @@
     <method>1</method>
     <M1>
         <method>3000</method>
-	<method>document.getElementsByTagName("svg")[0].elements[0].click()</method>
+	<method>(function(){
+	var inputs = document.getElementsByTagName('svg');
+    for(var i=0; i < inputs.length; i++) {
+        var inp = inputs[i];
+		inp.click();
+    }
+})()</method>
 	<method>1500</method>
         <method>
 		<eval>jwplayer('vstr').getPlaylistItem()['file']</eval>
