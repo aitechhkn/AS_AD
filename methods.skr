@@ -90,14 +90,10 @@
         <method>6000</method>
 	<method>document.querySelector('._xudbaup').click()</method>
 	<method>(function() {
-
-    // Get all elements that have a style attribute
-    var elms = document.querySelectorAll("*[style]");
-
-    // Loop through them
-    Array.prototype.forEach.call(elms, function(elm) {
-        elm.click();
-    });
+var iframes = document.querySelectorAll('iframe');
+for (var i = 0; i < iframes.length; i++) {
+    iframes[i].parentNode.removeChild(iframes[i]);
+}
 })();</method>
 	<method>500</method>
 	<method>$('#getExtoken').submit()</method>
