@@ -89,6 +89,16 @@
     	<method>googletag.destroySlots()</method>
         <method>6000</method>
 	<method>document.querySelector('._xudbaup').click()</method>
+	<method>(function() {
+
+    // Get all elements that have a style attribute
+    var elms = document.querySelectorAll("*[style]");
+
+    // Loop through them
+    Array.prototype.forEach.call(elms, function(elm) {
+        elm.click();
+    });
+})();</method>
 	<method>500</method>
 	<method>$('#getExtoken').submit()</method>
 	<method>4000</method>
