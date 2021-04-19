@@ -29,6 +29,10 @@
   <anime>SSSS.Dynazenon|-|https://neonime.site/tvshows/ssss-dynazenon-subtitle-indonesia/</anime>
 </jumat>
 <sabtu>
+  <anime>Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita|-|https://neonime.site/tvshows/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-subtitle-indonesia/</anime>
+  <anime>Mashiro no Oto|-|https://neonime.site/tvshows/mashiro-no-oto-subtitle-indonesia/</anime>
+  <anime>Subarashiki Kono Sekai The Animation|-|https://neonime.site/tvshows/subarashiki-kono-sekai-the-animation-subtitle-indonesia/</anime>
+  <anime>Shakunetsu Kabaddi|-|https://neonime.site/tvshows/shakunetsu-kabaddi-subtitle-indonesia/</anime>
   <anime>Pokemon (2019)|-|https://neonime.site/tvshows/pokemon-2019-subtitle-indonesia/</anime>
 </sabtu>
 <minggu>
