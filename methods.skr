@@ -86,9 +86,9 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
+    	<method>googletag.destroySlots()</method>
         <method>6000</method>
 	<method>document.querySelector('._xudbaup').click()</method>
-	<method>googletag.destroySlots([slot])</method>
 	<method>500</method>
 	<method>$('#getExtoken').submit()</method>
 	<method>4000</method>
