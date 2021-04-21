@@ -86,8 +86,10 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>5000</method>
-	<method>$('#getExtoken').submit()</method>
+        <method>15000</method>
+	<method>(function() {
+	        $('#getExtoken').submit();
+        })();</method>
     </M1>
     	<skip>(function() {
 	        $('#getExtoken').submit();
