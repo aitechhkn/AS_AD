@@ -86,22 +86,23 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-    	<method>googletag.destroySlots()</method>
-        <method>6000</method>
-	<method>document.querySelector('._xudbaup').click()</method>
-	<method>(function() {
+        <method>10000</method>
+	<method>$('#getExtoken').submit()</method>
+	<method>4000</method>
+    </M1>
+    	<skip>(function() {
+	        $('#getExtoken').submit();
+        })();</skip>
+	<upss>
+		<method>googletag.destroySlots()</method>
+		<method>document.querySelector('._xudbaup').click()</method>
+		<method>(function() {
 var iframes = document.querySelectorAll('iframe');
 for (var i = 0; i < iframes.length; i++) {
     iframes[i].parentNode.removeChild(iframes[i]);
 }
 })();</method>
-	<method>500</method>
-	<method>$('#getExtoken').submit()</method>
-	<method>4000</method>
-    </M1>
-    <skip>(function() {
-	        $('#getExtoken').submit();
-        })();</skip>
+	</upss>
 </Racaty>
 <GDPlayer>
     <method>0</method>
