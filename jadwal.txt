@@ -16,10 +16,11 @@
 <rabu>
   <anime>Seijo no Maryoku wa Bannou Desu|-|https://neonime.site/tvshows/seijo-no-maryoku-wa-bannou-desu-subtitle-indonesia/</anime>
   <anime>Tensura Nikki: Tensei shitara Slime Datta Ken|-|https://neonime.site/episode/tensura-nikki-tensei-shitara-slime-datta-ken-1x1/</anime>
-  <anime>Nanatsu no Taizai S4: Fundo no Shinpan|-|https://neonime.site/tvshows/nanatsu-no-taizai-s4-fundo-no-shinpan-subtitle-indonesia/</anime>
   <anime>Dragon Ball Heroes Season 2: Big Bang Mission|-|https://neonime.site/tvshows/dragon-ball-heroes-season-2-big-bang-mission-subtitle-indonesia/</anime>
 </rabu>
 <kamis>
+  <anime>Osananajimi ga Zettai ni Makenai Love Comedy|~|https://neonime.site/tvshows/osananajimi-ga-zettai-ni-makenai-love-comedy-subtitle-indonesia/</anime>
+  <anime>Nanatsu no Taizai S4: Fundo no Shinpan|-|https://neonime.site/tvshows/nanatsu-no-taizai-s4-fundo-no-shinpan-subtitle-indonesia/</anime>
   <anime>Super Club|-|https://neonime.site/tvshows/super-cub-subtitle-indonesia/</anime>
   <anime>Shaman King (2021)|-|https://neonime.site/tvshows/shaman-king-2021-subtitle-indonesia/</anime>
 </kamis>
