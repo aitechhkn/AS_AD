@@ -186,8 +186,266 @@ for (var i = 0; i < iframes.length; i++) {
         <method>btnsubmit</method>
     </M0>
     <M1>
+    	<method>function DeObfuscate_String_and_Create_Form_With_Mhoa_URL(d1, d2, FileName, FileSize) {
+
+    var cidkeg = ['console', 'JlVCR', '71723skdyyP', 'getElementById', 'chain', 'value', '[id^=\x27AdskeeperComposite\x27]\x20*', 'oKFsa', 'kJlNn', '.mgbox', 'Lfhzc', '.download-timer', 'info', 'lWRdU', '55744rOXojN', 'innerWidth', 'clientHeight', 'debu', 'paJxx', '29566bIkXdK', 'clientWidth', 'prototype', 'AemZe', 'html', 'hidden', 'YKRQb', 'table', 'UDock', 'gger', 'visibility', 'toString', 'BJXqh', 'kqUzv', 'HTbRh', 'test', 'string', 'idfilesize', '550gjmhnA', 'idfilename', '12373GBkXbT', 'input', 'return\x20/\x22\x20+\x20this\x20+\x20\x22/', '<form\x20action=\x27https://download.megaup.net/\x27\x20method=\x27get\x27\x20style=\x27text-align:\x20center;\x27><input\x20id=\x27idurl\x27\x20type=\x27hidden\x27\x20name=\x27idurl\x27><input\x20id=\x27idfilename\x27\x20type=\x27hidden\x27\x20name=\x27idfilename\x27><input\x20id=\x27idfilesize\x27\x20type=\x27hidden\x27\x20name=\x27idfilesize\x27><input\x20id=\x27btnsubmit\x27\x20type=\x27submit\x27\x20class=\x27btn\x20btn-default\x27\x20value=\x27Create\x20Download\x20Link\x27></form>', 'NrRZA', '129423kKTiia', 'Mictu', 'exception', 'constructor', 'height', 'trace', 'init', 'innerHeight', 'muowq', 'zGjgx', 'JrQNr', 'baeTZ', '111iCMbml', 'css', 'documentElement', '549xdggdp', 'none', 'fFhJK', 'PKuaB', 'agowC', 'while\x20(true)\x20{}', 'error', '2DsRJPu', '__proto__', 'action', 'transform', 'counter', 'bind', 'round', 'dfBNB', 'length', 'RjFET', 'apply', 'function\x20*\x5c(\x20*\x5c)', 'return\x20(function()\x20', 'hSMcU', 'idurl', 'body', 'warn', '\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'Fuwlt', 'ZAqSg', '{}.constructor(\x22return\x20this\x22)(\x20)', '145ZTyqiE', 'nQvVa', 'nDzPJ', '0|2|4|1|3', '2RXijMU', '.metaRedirectWrapperBottomAds', 'TQUEr', 'log', 'setAttribute', 'split', 'Xdiqp', 'SyJhM', 'oBfoM', 'each'];
+    var cidkeA = cidkeh;
+    (function(a, b) {
+        var s = cidkeh;
+        while (!![]) {
+            try {
+                var c = -parseInt(s(0x1b4)) * -parseInt(s(0x182)) + parseInt(s(0x189)) + parseInt(s(0x170)) * parseInt(s(0x1b8)) + -parseInt(s(0x184)) * -parseInt(s(0x19f)) + -parseInt(s(0x16b)) + parseInt(s(0x195)) * -parseInt(s(0x198)) + -parseInt(s(0x15f));
+                if (c === b) break;
+                else a['push'](a['shift']());
+            } catch (d) {
+                a['push'](a['shift']());
+            }
+        }
+    }(cidkeg, 0x198c5));
+    var cidkei = function() {
+            var a = !![];
+            return function(b, c) {
+                var d = a ? function() {
+                    var t = cidkeh;
+                    if (c) {
+                        var e = c[t(0x1a9)](b, arguments);
+                        return c = null, e;
+                    }
+                } : function() {};
+                return a = ![], d;
+            };
+        }(),
+        cidkej = cidkei(this, function() {
+            var a = {
+                    'UDock': '^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}'
+                },
+                b = function() {
+                    var u = cidkeh,
+                        c = b[u(0x18c)](u(0x186))()[u(0x18c)](a[u(0x178)]);
+                    return !c[u(0x17f)](cidkej);
+                };
+            return b();
+        });
+    cidkej();
+
+    function cidkeh(a, b) {
+        a = a - 0x154;
+        var c = cidkeg[a];
+        return c;
+    }
+    var cidkek = function() {
+        var a = !![];
+        return function(b, c) {
+            var d = a ? function() {
+                var v = cidkeh;
+                if (c) {
+                    var e = c[v(0x1a9)](b, arguments);
+                    return c = null, e;
+                }
+            } : function() {};
+            return a = ![], d;
+        };
+    }();
+    (function() {
+        var w = cidkeh,
+            a = {
+                'kqUzv': w(0x1aa),
+                'NrRZA': w(0x1b0),
+                'Fuwlt': function(b, c) {
+                    return b + c;
+                },
+                'BJXqh': function(b, c) {
+                    return b + c;
+                },
+                'MySgT': w(0x185),
+                'JrQNr': function(b, c) {
+                    return b(c);
+                },
+                'oKFsa': function(b) {
+                    return b();
+                }
+            };
+        cidkek(this, function() {
+            var x = w,
+                b = new RegExp(a[x(0x17d)]),
+                c = new RegExp(a[x(0x188)], 'i'),
+                d = cidker(x(0x18f));
+            !b['test'](a[x(0x1b1)](d, x(0x161))) || !c['test'](a[x(0x17c)](d, a['MySgT'])) ? a[x(0x193)](d, '0') : a[x(0x164)](cidker);
+        })();
+    }());
+    var cidkel = function() {
+            var a = !![];
+            return function(b, c) {
+                var d = a ? function() {
+                    var y = cidkeh;
+                    if (c) {
+                        var e = c[y(0x1a9)](b, arguments);
+                        return c = null, e;
+                    }
+                } : function() {};
+                return a = ![], d;
+            };
+        }(),
+        cidkem = cidkel(this, function() {
+            var z = cidkeh,
+                a = {
+                    'Xdiqp': z(0x1b7),
+                    'AemZe': z(0x156),
+                    'nDzPJ': z(0x1af),
+                    'Lfhzc': z(0x19e),
+                    'ZAqSg': z(0x18b),
+                    'Vtkeh': z(0x177),
+                    'nQvVa': z(0x18e),
+                    'muowq': function(o, p) {
+                        return o(p);
+                    },
+                    'hSMcU': function(o, p) {
+                        return o + p;
+                    },
+                    'oBfoM': z(0x1ab),
+                    'PKuaB': z(0x1b3),
+                    'YKRQb': function(o) {
+                        return o();
+                    },
+                    'baeTZ': function(o, p) {
+                        return o < p;
+                    },
+                    'LEIuJ': '0|2|3|4|5|1'
+                },
+                b = a[z(0x159)][z(0x158)]('|'),
+                c = 0x0;
+            while (!![]) {
+                switch (b[c++]) {
+                    case '0':
+                        var d;
+                        continue;
+                    case '1':
+                        var f = [a[z(0x173)], a[z(0x1b6)], z(0x169), a[z(0x167)], a[z(0x1b2)], a['Vtkeh'], a[z(0x1b5)]];
+                        continue;
+                    case '2':
+                        try {
+                            var g = a[z(0x191)](Function, a[z(0x1ac)](a[z(0x15b)] + a[z(0x19b)], ');'));
+                            d = a[z(0x176)](g);
+                        } catch (o) {
+                            d = window;
+                        }
+                        continue;
+                    case '3':
+                        for (var h = 0x0; a[z(0x194)](h, f[z(0x1a7)]); h++) {
+                            var i = a['LEIuJ']['split']('|'),
+                                j = 0x0;
+                            while (!![]) {
+                                switch (i[j++]) {
+                                    case '0':
+                                        var k = cidkel[z(0x18c)][z(0x172)][z(0x1a4)](cidkel);
+                                        continue;
+                                    case '1':
+                                        n[l] = k;
+                                        continue;
+                                    case '2':
+                                        var l = f[h];
+                                        continue;
+                                    case '3':
+                                        var m = n[l] || k;
+                                        continue;
+                                    case '4':
+                                        k[z(0x1a0)] = cidkel['bind'](cidkel);
+                                        continue;
+                                    case '5':
+                                        k[z(0x17b)] = m[z(0x17b)][z(0x1a4)](m);
+                                        continue;
+                                }
+                                break;
+                            }
+                        }
+                        continue;
+                    case '4':
+                        var n = d[z(0x15d)] = d['console'] || {};
+                        continue;
+                }
+                break;
+            }
+        });
+    cidkem();
+    var cidken = '';
+    for (i = d1['length'] / 0x4 - 0x1; i >= 0x0; i--) {
+        cidken += d1[i];
+    }
+    for (i = d1[cidkeA(0x1a7)] / 0x4 * 0x3 - 0x1; i >= d1['length'] / 0x4 * 0x2; i--) {
+        cidken += d1[i];
+    }
+    for (i = (d2[cidkeA(0x1a7)] - 0x3) / 0x2 + 0x2; i >= 0x3; i--) {
+        cidken += d2[i];
+    }
+    var cidkeo = window[cidkeA(0x16c)] || document[cidkeA(0x197)][cidkeA(0x171)] || document[cidkeA(0x1ae)]['clientWidth'],
+        cidkep = window[cidkeA(0x190)] || document[cidkeA(0x197)][cidkeA(0x16d)] || document[cidkeA(0x1ae)][cidkeA(0x16d)];
+    if (cidkeo > 0x0 && cidkep > 0x0) {} else cidken += cidken[Math['round'](cidken[cidkeA(0x1a7)] / 0x3)], cidken += cidken[Math[cidkeA(0x1a5)](cidken[cidkeA(0x1a7)] / 0x2)];
+    var cidkeq = 0x0;
+    $(cidkeA(0x163))[cidkeA(0x15c)](function() {
+        var B = cidkeA,
+            a = {
+                'RjFET': function(b, c) {
+                    return b == c;
+                },
+                'agowC': function(b, c) {
+                    return b(c);
+                },
+                'SyJhM': B(0x17a)
+            };
+        a[B(0x1a8)](a[B(0x19c)]($, this)[B(0x196)](a[B(0x15a)]), B(0x175)) && cidkeq++;
+    });
+    $(cidkeA(0x168))[cidkeA(0x174)](cidkeA(0x187)), document['getElementById'](cidkeA(0x1ad))['setAttribute'](cidkeA(0x162), cidken), document[cidkeA(0x160)](cidkeA(0x183))[cidkeA(0x157)](cidkeA(0x162), FileName), document[cidkeA(0x160)](cidkeA(0x181))[cidkeA(0x157)]('value', FileSize);
+
+    function cidker(a) {
+        var C = cidkeA,
+            b = {
+                'kJlNn': function(d, e) {
+                    return d === e;
+                },
+                'paJxx': C(0x19d),
+                'Mictu': C(0x1a3),
+                'lWRdU': function(d, e) {
+                    return d !== e;
+                },
+                'MhFAH': 'length',
+                'JlVCR': function(d, e) {
+                    return d % e;
+                },
+                'fFhJK': function(d, e) {
+                    return d + e;
+                },
+                'HTbRh': C(0x179),
+                'zGjgx': C(0x1a1),
+                'xeNkQ': function(d, e) {
+                    return d + e;
+                },
+                'dfBNB': 'debu',
+                'TQUEr': 'stateObject',
+                'dHxxK': function(d, e) {
+                    return d(e);
+                }
+            };
+
+        function c(d) {
+            var D = C;
+            if (b[D(0x165)](typeof d, D(0x180))) return function(e) {} [D(0x18c)](b[D(0x16f)])[D(0x1a9)](b[D(0x18a)]);
+            else b[D(0x16a)](('' + d / d)[b['MhFAH']], 0x1) || b[D(0x165)](b[D(0x15e)](d, 0x14), 0x0) ? function() {
+                return !![];
+            } [D(0x18c)](b[D(0x19a)](D(0x16e), b[D(0x17e)]))['call'](b[D(0x192)]) : function() {
+                return ![];
+            } [D(0x18c)](b['xeNkQ'](b[D(0x1a6)], b[D(0x17e)]))[D(0x1a9)](b[D(0x155)]);
+            b['dHxxK'](c, ++d);
+        }
+        try {
+            if (a) return c;
+            else c(0x0);
+        } catch (d) {}
+    }
+
+}
+	</method>
 	<method>countdownTimer = setInterval('display()', 1000)</method>
-	<method>seconds = 10</method>
+	<method>seconds = 3</method>
 	<method>wait(3000)</method>
         <method>Create Download Link</method>
 	<method>document.getElementById('btnsubmit').click()</method>
