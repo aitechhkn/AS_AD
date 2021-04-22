@@ -187,7 +187,7 @@ for (var i = 0; i < iframes.length; i++) {
     </M0>
     <M1>
 	<method>countdownTimer = setInterval('display()', 1000)</method>
-	<method>seconds = 10</method>
+	<method>seconds = 6</method>
 	<method>wait(3000)</method>
         <method>Create Download Link</method>
 	<method>document.getElementById('btnsubmit').click()</method>
