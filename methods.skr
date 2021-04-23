@@ -88,10 +88,6 @@
     <M1>
         <method>1000</method>
 	<method>$('#getExtoken').submit()</method>
-	<method>3000</method>
-	<method>$('#getExtoken').submit()</method>
-	<method>3000</method>
-	<method>$('#getExtoken').submit()</method>
 	<method>15000</method>
     </M1>
     	<skip>(function() {
