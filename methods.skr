@@ -86,9 +86,23 @@
         <method>downloadbtn</method>
     </M0>
     <M1>
-        <method>1000</method>
+	<method>function tick() {
+            console.log('Tick');
+            var remaining = parseInt($(e).find(".seconds").text()) - 1;
+            if (remaining <= 0) {
+                $(e).css('display', 'none');
+                $('#downloadbtn .after').css('display', 'block');
+                $('.downloadbtn').attr('disabled', false);
+            } else {
+                $(e).find(".seconds").text(remaining.toString());
+                setTimeout(tick, 10);
+            }
+        }</method>
+	<method>1000</method>
 	<method>$('#getExtoken').submit()</method>
-	<method>15000</method>
+	<method>1000</method>
+	<method>$('#getExtoken').submit()</method>
+	<method>10000</method>
     </M1>
     	<skip>(function() {
 	        $('#getExtoken').submit();
