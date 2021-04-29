@@ -1,5 +1,5 @@
 <info>67</info>
 <db>7</db>
 <olddb>2</olddb>
-<zs_sk>3</zs_sk>
+<zs_sk>4</zs_sk>
 <adblokh>1</adblokh>
