@@ -21,7 +21,7 @@
 <kamis>
   <anime>Osananajimi ga Zettai ni Makenai Love Comedy|-|https://neonime.site/tvshows/osananajimi-ga-zettai-ni-makenai-love-comedy-subtitle-indonesia/</anime>
   <anime>Nanatsu no Taizai S4: Fundo no Shinpan|-|https://neonime.site/tvshows/nanatsu-no-taizai-s4-fundo-no-shinpan-subtitle-indonesia/</anime>
-  <anime>Super Club|-|https://neonime.site/tvshows/super-cub-subtitle-indonesia/</anime>
+  <anime>Super Club|-|https://otakudesu.moe/anime/super-cub-subtitle-indonesia/</anime>
   <anime>Shaman King (2021)|-|https://neonime.site/tvshows/shaman-king-2021-subtitle-indonesia/</anime>
 </kamis>
 <jumat>
