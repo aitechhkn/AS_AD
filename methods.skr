@@ -1,4 +1,4 @@
-<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|yourupload.co/watch/:=:YoUploadWatch|~|yourupload.co/download:=:YoUploadDunlud|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.uppp:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet|~|files.im:=:FilesIM|~|hxfile.co:=:HXFile|~|layarkacaxxi.icu/v/:=:LKXII|~|layarkacaxxi.icu/f/:=:Fembed</methods>
+<methods>zippyshare.:=:ZippyShare|~|sharer.my:=:Sharer|~|.fembed.:=:Fembed|~|femax20.:=:Fembed|~|w.mp4upload.:=:MP4upload|~|racaty.:=:Racaty|~|yourupload.co/watch/:=:YoUploadWatch|~|yourupload.co/download:=:YoUploadDunlud|~|desustream.:=:DesuStrim|~|uservideo.:=:UserVideo|~|gdriveplayer.:=:GDPlayer|~|blogger.com/video.:=:BloggerVideo|~|elsfile.uppp:=:ElsFile|~|solidfiles.ups:=:SolidFiles|~|//megaup.net:=:MegaUpNet|~|files.im:=:FilesIM|~|hxfile.co:=:HXFile|~|layarkacaxxi.icu/v/:=:LKXII|~|layarkacaxxi.icu/f/:=:Fembed|~|cdn.linkabc.me/embed.php:=:LinkABC</methods>
 <blokurlstrim>vidoza.|~|</blokurlstrim>
 <blokurldunlud>vidoza.|~|</blokurldunlud>
 <replacer>.fembed.:=:FembedReplace|~|mp4upload.:=:MP4UReplace|~|gdriveplayer.:=:GDPReplace|~|solidfiles.:=:SolidFReplce</replacer>
@@ -502,3 +502,14 @@ for (var i = 0; i < iframes.length; i++) {
 	</method>
     </M1>
 </LKXII>
+<LinkABC>
+<method>0</method>
+    <M0>
+        <method>100</method>
+        <method>
+		<eval>jwplayer('nonce').getPlaylistItem()['file']</eval>
+		<eval>wait(3000)</eval>
+		<eval>[dunlud]</eval>
+	</method>
+    </M0>
+</LinkABC>
