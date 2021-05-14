@@ -3,3 +3,4 @@
 <olddb>3</olddb>
 <zs_sk>8</zs_sk>
 <adblokh>1</adblokh>
+<ccache>1</ccache>
