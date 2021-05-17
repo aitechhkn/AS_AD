@@ -1,6 +1,6 @@
-<info>72</info>
-<db>8</db>
-<olddb>3</olddb>
-<zs_sk>8</zs_sk>
-<adblokh>1</adblokh>
+<info>73</info>
+<db>9</db>
+<olddb>4</olddb>
+<zs_sk>9</zs_sk>
+<adblokh>2</adblokh>
 <ccache>1</ccache>
