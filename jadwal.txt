@@ -2,7 +2,7 @@
   <anime>Sentouin, Hakenshimasu!|-|https://neonime.site/tvshows/sentouin-hakenshimasu-subtitle-indonesia/</anime>
   <anime>Dragon, Ie wo Kau.|-|https://neonime.site/tvshows/dragon-ie-wo-kau-subtitle-indonesia/</anime>
   <anime>Seven Knights Revolution: Eiyuu no Keishousha|-|https://neonime.site/tvshows/seven-knights-revolution-eiyuu-no-keishousha-subtitle-indonesia/</anime>
-  <anime>Gintama: The Semi-Final|-|https://neonime.site/tvshows/gintama-the-semi-final-subtitle-indonesia/</anime>
+  <anime>Shingeki no Kyojin: The Final Season|-|https://neonime.site/tvshows/shingeki-no-kyojin-the-final-season-subtitle-indonesia/</anime>
 </senin>
 <selasa>
   <anime>Strike the Blood IV|-|https://neonime.site/tvshows/strike-the-blood-iv-bd-subtitle-indonesia/</anime>
