@@ -507,7 +507,7 @@ for (var i = 0; i < iframes.length; i++) {
     <M0>
         <method>100</method>
         <method>
-		<eval>jwplayer('nonce').getPlaylistItem()['file']</eval>
+		<eval>jwplayer().getPlaylistItem()['file']</eval>
 		<eval>wait(3000)</eval>
 		<eval>[dunlud]</eval>
 	</method>
