@@ -1,3 +1,6 @@
-Update v0.3.0 apa yang baru?
+Update v0.3.1 apa yang baru?
 
-- Perbaikan Bug...
+- Studio sekarang bisa di klik.
+- Perbaikan streaming berganti otomatis ketika jaringan tidak stabil...
+- Perbaikan crash saat aplikasi di buka (hanya di beberapa device yg terkendala)
+- Perbaikan bug.
