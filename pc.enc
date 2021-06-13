@@ -1,0 +1,5 @@
+<paket>test_premium|</paket>
+<consumable>test_premium|</consumable>
+<diskon>
+	<paket>test_premium:=:30%:=:12/07/2021</paket>
+</diskon>
