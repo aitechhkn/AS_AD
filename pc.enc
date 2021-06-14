@@ -1,6 +1,7 @@
-<paket>premium_1b|tes_1_premium</paket>
-<consumable>premium_1b|</consumable>
-<kode>juniHemat:=:tes_1_premium|~|</kode>
+<paket>premium_1b|tes_1_premium|premium_2_test_1b</paket>
+<consumable>premium_1b|premium_2_test_1b</consumable>
+<kode>juniHemat:=:tes_1_premium|~|junibebas:=:premium_2_test_1b</kode>
 <diskon>
 	<paket>tes_1_premium:=:30%:=:12/06/2021 09:30:00:=:12/07/2021 09:30:00:=:15.000,00:=:4.950,00:=:10.050,00</paket>
+	<paket>premium_2_test_1b:=:33%:=:12/06/2021 09:30:00:=:12/07/2021 09:30:00:=:15.000,00:=:4.950,00:=:10.050,00</paket>
 </diskon>
