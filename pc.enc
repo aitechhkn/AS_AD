@@ -1,4 +1,4 @@
-<paket>premium_1b|tes_1_premium|premium_2_test_1b</paket>
+<paket>premium_1b:=:30|~|tes_1_premium:=:30|~|premium_2_test_1b:=:30</paket>
 <consumable>premium_1b|premium_2_test_1b</consumable>
 <kode>juniHemat:=:tes_1_premium|~|junibebas:=:premium_2_test_1b</kode>
 <diskon>
